@@ -6,7 +6,7 @@
       {
         "id": "e65077f0ca87d6e6",
         "type": "tabs",
-        "dimension": 19.456289978678036,
+        "dimension": 20.65868263473054,
         "children": [
           {
             "id": "2501c3a268985801",
@@ -64,13 +64,12 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "20f15777a855eb8c",
         "type": "tabs",
-        "dimension": 80.54371002132196,
+        "dimension": 79.34131736526946,
         "children": [
           {
             "id": "450b1f3714a576b5",
@@ -78,7 +77,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/循环链表.md"
+                "file": "notion/类中new，复制构造函数、重载  =.md"
               }
             }
           },
@@ -91,29 +90,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "d7dd2ccd5c64f615",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "notion/stdio.h--printf--scanf.md"
-              }
-            }
-          },
-          {
-            "id": "f06ca010839f0ecc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/双链表.md"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,8 +145,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -189,14 +166,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/双链表.md",
+                "file": "notion/类中new，复制构造函数、重载  =.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -206,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/双链表.md",
+                "file": "notion/类中new，复制构造函数、重载  =.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,12 +206,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/双链表.md"
+                "file": "notion/类中new，复制构造函数、重载  =.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -252,8 +228,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f06ca010839f0ecc",
+  "active": "450b1f3714a576b5",
   "lastOpenFiles": [
+    "索引/C++.md",
+    "notion/operator-重载运算符.md",
+    "notion/类中new，复制构造函数、重载  =.md",
+    "索引/C语言.md",
     "索引/数据结构与算法.md",
     "Excalidraw/双链表.md",
     "Excalidraw/双链表.md.baiduyun.uploading.cfg",
@@ -278,10 +258,7 @@
     "static/Pasted Image 20231223171438_879.png",
     "static/Pasted Image 20231223171409_680.png",
     "static/Pasted Image 20231223171354_679.png",
-    "索引/C++.md",
     "notion/stdio.h--printf--scanf.md",
-    "索引/C语言.md",
-    "notion/类中new，复制构造函数、重载  =.md",
     "notion/多继承，菱形继承，虚继承.md",
     "notion/字符指针-char星.md",
     "notion/析构函数.md",
@@ -289,7 +266,6 @@
     "notion/enum-枚举.md",
     "notion/strcpy(),strcat()字符串的修改.md",
     "notion/cctype-识别函数内是字符数字符号.md",
-    "notion/operator-重载运算符.md",
     "notion/union-共用体.md",
     "notion/类的类型转换.md",
     "notion/构造函数.md",
