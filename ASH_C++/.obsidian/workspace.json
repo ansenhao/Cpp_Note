@@ -65,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "20f15777a855eb8c",
@@ -98,12 +98,11 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/循环链表.md"
+                "file": "notion/stdio.h--printf--scanf.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/循环链表.md",
+                "file": "notion/单链表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/循环链表.md",
+                "file": "notion/单链表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/循环链表.md"
+                "file": "notion/单链表.md"
               }
             }
           }
@@ -242,8 +241,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d7dd2ccd5c64f615",
+  "active": "450b1f3714a576b5",
   "lastOpenFiles": [
+    "notion/stdio.h--printf--scanf.md.baiduyun.uploading.cfg",
+    "notion/stdio.h--printf--scanf.md",
+    "static/Pasted Image 20231223154933_212.png.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231223154933_212.png",
+    "索引/C语言.md",
+    "Excalidraw/循环链表.md",
     "Excalidraw/循环链表.md.baiduyun.uploading.cfg",
     "static/Pasted Image 20231223150533_459.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231223150533_459.png",
@@ -259,18 +264,12 @@
     "static/Pasted Image 20231223150308_144.png",
     "static/Pasted Image 20231223150252_142.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231223150252_142.png",
-    "static/Pasted Image 20231223145238_036.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231223145238_036.png",
-    "static/Pasted Image 20231223145030_785.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231223145030_785.png",
-    "static/Pasted Image 20231223145014_775.png.baiduyun.uploading.cfg",
-    "static/Pasted Image 20231223145014_775.png",
     "索引/数据结构与算法.md",
-    "Excalidraw/循环链表.md",
     "notion/单链表.md",
     "notion/类中new，复制构造函数、重载  =.md",
     "索引/C++.md",
-    "索引/C语言.md",
     "notion/多继承，菱形继承，虚继承.md",
     "notion/字符指针-char星.md",
     "notion/析构函数.md",
@@ -289,7 +288,6 @@
     "notion/队列与循环队列.md",
     "索引/python大纲.md",
     "notion/and && ---or --- ! 非---运算符.md",
-    "notion/stdio.h--printf--scanf.md",
     "未命名.canvas",
     "画板案例.canvas",
     "索引/大纲导图.canvas",
