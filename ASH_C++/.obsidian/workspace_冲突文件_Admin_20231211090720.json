@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "72afe48b1932cafe",
+    "type": "split",
+    "children": [
+      {
+        "id": "e65077f0ca87d6e6",
+        "type": "tabs",
+        "dimension": 24.288310115081767,
+        "children": [
+          {
+            "id": "e2aedc88b200203d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "索引/C++大纲思维导图.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            },
+            "group": "ed2e4904387d4632"
+          }
+        ]
+      },
+      {
+        "id": "20f15777a855eb8c",
+        "type": "tabs",
+        "dimension": 75.71168988491823,
+        "children": [
+          {
+            "id": "bb3dd06357b87d54",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "索引/C++大纲思维导图.md"
+              },
+              "pinned": true
+            },
+            "group": "ed2e4904387d4632"
+          },
+          {
+            "id": "e4247ae4466f529f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "notion/typedef-类创建别名.md"
+              }
+            }
+          },
+          {
+            "id": "9092d896ecd76c1b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "notion/pointers-指针.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d0fe02662a54fb16",
+    "type": "split",
+    "children": [
+      {
+        "id": "db9d677330534b66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c401be002ff184cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6c5084905dde0689",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a43fbfb7db7fc922",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "a2ebffb6b43542b1",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 353.5
+  },
+  "right": {
+    "id": "1e2f083c69547fa6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f19e60bf1c1d136a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad2701a3b6301d39",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notion/pointers-指针.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67563959f0f04aef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notion/pointers-指针.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "843eacdc6d47341c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d87b17873e0cfbd4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notion/pointers-指针.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:打开命令面板": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "9092d896ecd76c1b",
+  "lastOpenFiles": [
+    "索引/C++大纲思维导图.md",
+    "notion/new-delete-动态数组-指针算数.md",
+    "notion/++与指针的4种++运算.md",
+    "notion/pointers-指针.md",
+    "notion/const-常量.md",
+    "notion/函数的地址与指针.md",
+    "notion/递归.md",
+    "static/Pasted Image 20231209130304_275.png",
+    "static/Pasted Image 20231209130244_022.png",
+    "static/Pasted Image 20231209130204_262.png",
+    "notion/for.md",
+    "notion/while、do while.md",
+    "notion/char与string.md",
+    "notion/传统数组-vector-array.md",
+    "notion/函数编写案例.md",
+    "notion/pointers-指针.md.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231208123516_895.png.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231208123516_895.png",
+    "static/Pasted Image 20231208122945_866.png.baiduyun.uploading.cfg",
+    "notion/函数编写案例.md.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231208122945_866.png",
+    "notion/const-常量.md.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231208114434_915.png.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231208114434_915.png",
+    "notion/and && ---or --- ! 非---运算符.md",
+    "notion/二维数组.md",
+    "notion/：：构造函数.md",
+    "索引/C++大纲思维导图.md.baiduyun.uploading.cfg",
+    "notion/函数的地址与指针.md.baiduyun.uploading.cfg",
+    "notion/混合案例.md",
+    "static/Pasted Image 20231208100002_427.jpg.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231208100002_427.jpg",
+    "notion/new-delete-动态数组-指针算数.md.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231208095815_393.png",
+    "static/Pasted Image 20231208094644_213.png",
+    "static/Pasted Image 20231208094056_491.png",
+    "notion/函数的声明与定义.md",
+    "notion/typedef-类创建别名.md",
+    "notion/break和continue.md",
+    "notion/if-else.md",
+    "notion/switch.md",
+    "notion/enum-枚举.md",
+    "notion/union-共用体.md",
+    "notion/struct-结构体.md",
+    "notion/cin.md",
+    "notion/文件输出.md",
+    "画板案例.canvas",
+    "索引/大纲导图.canvas",
+    "未命名 1.canvas",
+    "static/未命名.canvas"
+  ]
+}

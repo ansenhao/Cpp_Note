@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "72afe48b1932cafe",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5db6dd26a0f7459",
+        "type": "tabs",
+        "dimension": 23.47629796839729,
+        "children": [
+          {
+            "id": "0a5dcbc9c8288dc5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "索引/大纲目录.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "e65077f0ca87d6e6",
+        "type": "tabs",
+        "dimension": 76.52370203160271,
+        "children": [
+          {
+            "id": "6c91c2688a762873",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "notion/new-delete-动态数组-指针算数.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d0fe02662a54fb16",
+    "type": "split",
+    "children": [
+      {
+        "id": "db9d677330534b66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c401be002ff184cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6c5084905dde0689",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a43fbfb7db7fc922",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 231.5
+  },
+  "right": {
+    "id": "1e2f083c69547fa6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f19e60bf1c1d136a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad2701a3b6301d39",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notion/new-delete-动态数组-指针算数.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67563959f0f04aef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notion/new-delete-动态数组-指针算数.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "843eacdc6d47341c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d87b17873e0cfbd4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notion/new-delete-动态数组-指针算数.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "6c91c2688a762873",
+  "lastOpenFiles": [
+    "索引/大纲目录.md",
+    "notion/pointers-指针.md",
+    "notion/new-delete-动态数组-指针算数.md",
+    "notion/new-delete-动态数组-指针算数.md.baiduyun.uploading.cfg",
+    "notion/pointers-指针.md.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231122170256_332.png.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231122170256_332.png",
+    "static/Pasted Image 20231122170241_325.png.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231122170241_325.png",
+    "static/Pasted Image 20231122162952_058.png.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231122162952_058.png",
+    "static/Pasted Image 20231122162751_036.png.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231122162751_036.png",
+    "static/Pasted Image 20231122162721_037.png.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231122162721_033.png.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231122162721_037.png",
+    "static/Pasted Image 20231122162721_033.png",
+    "static/Pasted Image 20231122162651_025.png.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231122162651_025.png",
+    "static/Pasted Image 20231122162606_022.png.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231122162606_022.png",
+    "static/Pasted Image 20231122162535_019.png",
+    "static/Pasted Image 20231122162520_002.png",
+    "notion/union-共用体.md",
+    "notion/附：lunux常用指令.md",
+    "notion/enum-枚举.md",
+    "notion/案例---堆.md",
+    "notion/static-作用域.md",
+    "画板案例.canvas",
+    "notion/&引用.md",
+    "notion/const-常量.md",
+    "notion/struct-结构体.md",
+    "notion/基类指针转化为派生类指针.md",
+    "notion/array-数组.md",
+    "notion/案例------数组，for循环.md",
+    "notion/cin.md",
+    "notion/getline(),get().md",
+    "notion/char与string.md",
+    "notion/void.md",
+    "notion/声明-定义.md",
+    "notion/析构函数.md",
+    "notion/：：构造函数.md",
+    "Excalidraw/截图做笔记案例.md",
+    "标注案例.md",
+    "notion/？：条件运算符.md",
+    "notion/局域网联机方法1（蓝图）.md",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "static/未命名.canvas"
+  ]
+}
