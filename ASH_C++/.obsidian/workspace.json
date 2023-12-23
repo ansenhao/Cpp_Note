@@ -64,8 +64,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "20f15777a855eb8c",
@@ -243,9 +242,10 @@
   },
   "active": "450b1f3714a576b5",
   "lastOpenFiles": [
+    "索引/C++.md",
+    "Excalidraw/循环链表.md",
     "Excalidraw/循环链表.md.baiduyun.uploading.cfg",
     "索引/数据结构与算法.md",
-    "Excalidraw/循环链表.md",
     "static/Pasted Image 20231223160526_294.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231223160526_294.png",
     "static/Pasted Image 20231223155202_219.png.baiduyun.uploading.cfg",
@@ -269,7 +269,6 @@
     "static/Pasted Image 20231223150308_144.png",
     "static/Pasted Image 20231223150252_142.png",
     "notion/类中new，复制构造函数、重载  =.md",
-    "索引/C++.md",
     "notion/多继承，菱形继承，虚继承.md",
     "notion/字符指针-char星.md",
     "notion/析构函数.md",
