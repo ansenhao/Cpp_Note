@@ -146,7 +146,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,7 +175,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -211,7 +212,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -231,11 +233,11 @@
   },
   "active": "450b1f3714a576b5",
   "lastOpenFiles": [
+    "notion/单链表.md",
     "notion/单链表.md.baiduyun.uploading.cfg",
     "索引/数据结构与算法.md",
     "notion/类中new，复制构造函数、重载  =.md",
     "索引/C++.md",
-    "notion/单链表.md",
     "索引/C语言.md",
     "notion/多继承，菱形继承，虚继承.md",
     "notion/字符指针-char星.md",
