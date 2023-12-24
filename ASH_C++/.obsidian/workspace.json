@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "索引/C++.md",
+                "file": "Excalidraw/基类与派生类.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "索引/C++.md",
+                "file": "Excalidraw/基类与派生类.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "索引/C++.md"
+                "file": "Excalidraw/基类与派生类.md"
               }
             }
           }
@@ -239,12 +239,19 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2501c3a268985801",
+  "active": "d4ad0ccfca0d9e75",
   "lastOpenFiles": [
     "索引/C++.md.baiduyun.uploading.cfg",
-    "Excalidraw/基类与派生类.md",
     "索引/C++.md",
+    "Excalidraw/基类与派生类.md",
+    "notion/继承-父子类.md",
+    "static/Pasted Image 20231224105638_410.png.baiduyun.uploading.cfg",
     "Excalidraw/基类与派生类.md.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231224105638_410.png",
+    "notion/附：lunux常用指令.md",
+    "notion/附：lunux常用指令.md.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231224105410_354.png.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231224105410_354.png",
     "notion/operator-重载运算符.md",
     "notion/基类指针转化为派生类指针.md",
     "static/Pasted Image 20231224105130_726.png.baiduyun.uploading.cfg",
@@ -257,22 +264,17 @@
     "static/Pasted Image 20231224104945_019.jpg",
     "static/Pasted Image 20231224104915_009.jpg.baiduyun.uploading.cfg",
     "static/Pasted Image 20231224104915_009.jpg",
-    "Excalidraw/Drawing 2023-12-24 10.48.11.excalidraw.md.baiduyun.uploading.cfg",
     "notion/类的类型转换.md",
     "notion/类中new，复制构造函数、重载  =.md",
     "索引/C语言.md",
     "索引/数据结构与算法.md",
     "Excalidraw/双链表.md",
-    "Excalidraw/双链表.md.baiduyun.uploading.cfg",
-    "Excalidraw/循环链表.md.baiduyun.uploading.cfg",
     "Excalidraw/循环链表.md",
     "static/Pasted Image 20231223172348_186.png",
     "static/Pasted Image 20231223172318_188.png",
     "static/Pasted Image 20231223172318_182.png",
     "notion/单链表.md",
     "static/Pasted Image 20231223171607_803.png",
-    "static/Pasted Image 20231223171538_885.png",
-    "static/Pasted Image 20231223171525_702.png",
     "notion/stdio.h--printf--scanf.md",
     "notion/多继承，菱形继承，虚继承.md",
     "notion/字符指针-char星.md",
@@ -284,8 +286,6 @@
     "notion/union-共用体.md",
     "notion/this指针.md",
     "notion/友元函数.md",
-    "notion/print、input、类型转化.md",
-    "notion/栈的应用.md",
     "未命名.canvas",
     "画板案例.canvas",
     "索引/大纲导图.canvas",
