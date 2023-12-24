@@ -100,9 +100,17 @@
                 "file": "Excalidraw/基类与派生类.md"
               }
             }
+          },
+          {
+            "id": "f4716974415f6382",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -177,7 +185,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/基类与派生类.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +201,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/基类与派生类.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,9 +222,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/基类与派生类.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -239,8 +243,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d4ad0ccfca0d9e75",
+  "active": "f4716974415f6382",
   "lastOpenFiles": [
+    "Excalidraw/基类与派生类.md",
     "static/Pasted Image 20231224204340_206.png",
     "static/Pasted Image 20231224204236_190.png",
     "static/Pasted Image 20231224202640_092.png",
@@ -253,11 +258,9 @@
     "static/Pasted Image 20231224192908_620.png",
     "Excalidraw/基类与派生类.md.baiduyun.uploading.cfg",
     "static/Pasted Image 20231224105900_077.png.baiduyun.uploading.cfg",
-    "static/Pasted Image 20231224105900_077.png",
     "static/Pasted Image 20231224105800_065.png.baiduyun.uploading.cfg",
     "索引/C++.md.baiduyun.uploading.cfg",
     "索引/C++.md",
-    "Excalidraw/基类与派生类.md",
     "notion/继承-父子类.md",
     "static/Pasted Image 20231224105638_410.png.baiduyun.uploading.cfg",
     "notion/附：lunux常用指令.md",
