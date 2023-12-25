@@ -64,7 +64,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "20f15777a855eb8c",
@@ -87,7 +88,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "notion/递归.md"
+                "file": "Excalidraw/二叉树.md"
               }
             }
           }
@@ -167,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notion/递归.md",
+                "file": "Excalidraw/二叉树.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notion/递归.md",
+                "file": "Excalidraw/二叉树.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notion/递归.md"
+                "file": "Excalidraw/二叉树.md"
               }
             }
           }
@@ -231,9 +232,11 @@
   },
   "active": "7fccf4ce62a3fb08",
   "lastOpenFiles": [
+    "索引/数据结构与算法.md",
+    "索引/python大纲.md",
+    "notion/递归.md",
     "索引/C++.md",
     "Excalidraw/二叉树.md",
-    "索引/数据结构与算法.md",
     "notion/printf--scanf.md.baiduyun.uploading.cfg",
     "notion/printf--scanf.md",
     "static/Pasted Image 20231225123202_275.png.baiduyun.uploading.cfg",
@@ -275,7 +278,6 @@
     "notion/字符指针-char星.md",
     "notion/析构函数.md",
     "notion/类的声明、定义、调用.md",
-    "notion/enum-枚举.md",
     "未命名.canvas",
     "画板案例.canvas",
     "索引/大纲导图.canvas",
