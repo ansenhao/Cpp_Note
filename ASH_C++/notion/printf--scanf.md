@@ -758,39 +758,6 @@ a58203d59fcc00176cbe3011ed8266e9ac159938: [[Pasted Image 20231218141347_144.png]
 				1,
 				1
 			]
-		},
-		{
-			"type": "image",
-			"version": 53,
-			"versionNonce": 1850297552,
-			"isDeleted": true,
-			"id": "wu93KICHVKiIc_P7Mo0-x",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -704.2832625054491,
-			"y": 657.0433116438726,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
-			"width": 1424.7023239734583,
-			"height": 166.42864118303555,
-			"seed": 1370924928,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1703476102737,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "210022c4ae121aff1e9e27df8cb1dae68c0f6057",
-			"scale": [
-				1,
-				1
-			]
 		}
 	],
 	"appState": {
@@ -808,8 +775,8 @@ a58203d59fcc00176cbe3011ed8266e9ac159938: [[Pasted Image 20231218141347_144.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1094.0036473977239,
-		"scrollY": 1029.040180790675,
+		"scrollX": 794.0398214067529,
+		"scrollY": 995.2179911444921,
 		"zoom": {
 			"value": 0.6000000000000001
 		},

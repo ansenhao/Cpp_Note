@@ -65,23 +65,13 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "20f15777a855eb8c",
         "type": "tabs",
         "dimension": 79.34131736526946,
         "children": [
-          {
-            "id": "450b1f3714a576b5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "notion/operator-重载运算符.md"
-              }
-            }
-          },
           {
             "id": "6cbad303bc6c0326",
             "type": "leaf",
@@ -98,12 +88,12 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "notion/stdio.h--printf--scanf.md"
+                "file": "Excalidraw/二叉树.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notion/stdio.h--printf--scanf.md",
+                "file": "Excalidraw/二叉树.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notion/stdio.h--printf--scanf.md",
+                "file": "Excalidraw/二叉树.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notion/stdio.h--printf--scanf.md"
+                "file": "Excalidraw/二叉树.md"
               }
             }
           }
@@ -242,14 +232,16 @@
   },
   "active": "7fccf4ce62a3fb08",
   "lastOpenFiles": [
-    "notion/stdio.h--printf--scanf.md.baiduyun.uploading.cfg",
+    "索引/数据结构与算法.md",
+    "索引/C语言.md.baiduyun.uploading.cfg",
+    "notion/printf--scanf.md.baiduyun.uploading.cfg",
+    "notion/printf--scanf.md",
     "索引/C语言.md",
-    "notion/stdio.h--printf--scanf.md",
+    "notion/stdio.h--printf--scanf.md.baiduyun.uploading.cfg",
     "Excalidraw/malloc、free.md.baiduyun.uploading.cfg",
     "Excalidraw/malloc、free.md",
     "static/Pasted Image 20231225114808_139.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231225114808_139.png",
-    "索引/C语言.md.baiduyun.uploading.cfg",
     "Excalidraw/Drawing 2023-12-25 11.47.27.excalidraw.md.baiduyun.uploading.cfg",
     "Excalidraw/二叉树.md",
     "Excalidraw/二叉树.md.baiduyun.uploading.cfg",
@@ -258,12 +250,10 @@
     "static/Pasted Image 20231225114501_375.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231225114501_375.png",
     "static/Pasted Image 20231225114425_365.png.baiduyun.uploading.cfg",
-    "static/Pasted Image 20231225114424_946.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231225114425_365.png",
     "static/Pasted Image 20231225114424_946.png",
     "static/Pasted Image 20231225114410_364.png",
     "static/Pasted Image 20231225114355_364.png",
-    "索引/数据结构与算法.md",
     "notion/队列与循环队列.md",
     "static/Pasted Image 20231225114323_868.png",
     "notion/栈的应用.md",
