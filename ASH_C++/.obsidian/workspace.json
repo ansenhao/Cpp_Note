@@ -64,7 +64,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "20f15777a855eb8c",
@@ -100,9 +101,19 @@
                 "file": "Excalidraw/基类与派生类.md"
               }
             }
+          },
+          {
+            "id": "f4716974415f6382",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/双链表.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -177,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/基类与派生类.md",
+                "file": "Excalidraw/双链表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/基类与派生类.md",
+                "file": "Excalidraw/双链表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/基类与派生类.md"
+                "file": "Excalidraw/双链表.md"
               }
             }
           }
@@ -231,49 +242,50 @@
   "left-ribbon": {
     "hiddenItems": {
       "command-palette:打开命令面板": false,
-      "oz-clear-unused-images:Clear Unused Images": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "workspaces:管理工作区布局": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d4ad0ccfca0d9e75",
+  "active": "f4716974415f6382",
   "lastOpenFiles": [
-    "索引/C++.md",
+    "static/Pasted Image 20231212115600_469.png.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231212112801_346.png.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231212112528_327.png.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231212112343_308.png.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231212112024_244.png.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231212111954_236.png.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231212105228_417.png.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231212103943_355.png.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231212103841_895.png.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231212102257_909.png.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231212101857_142.png.baiduyun.uploading.cfg",
+    "索引/数据结构与算法.md",
     "Excalidraw/基类与派生类.md",
-    "Excalidraw/基类与派生类.md.baiduyun.uploading.cfg",
-    "static/Pasted Image 20231224105900_077.png.baiduyun.uploading.cfg",
-    "static/Pasted Image 20231224105900_077.png",
-    "static/Pasted Image 20231224105800_065.png.baiduyun.uploading.cfg",
-    "static/Pasted Image 20231224105800_065.png",
-    "索引/C++.md.baiduyun.uploading.cfg",
+    "索引/C++.md",
+    "static/Pasted Image 20231224204340_206.png",
+    "static/Pasted Image 20231224204236_190.png",
+    "static/Pasted Image 20231224202640_092.png",
+    "static/Pasted Image 20231224202540_068.png",
+    "static/Pasted Image 20231224195939_891.png",
+    "static/Pasted Image 20231224194944_836.png",
+    "static/Pasted Image 20231224193654_977.png",
+    "static/Pasted Image 20231224193332_647.jpg",
+    "static/Pasted Image 20231224192938_623.png",
+    "static/Pasted Image 20231224192908_620.png",
     "notion/继承-父子类.md",
-    "static/Pasted Image 20231224105638_410.png.baiduyun.uploading.cfg",
-    "static/Pasted Image 20231224105638_410.png",
     "notion/附：lunux常用指令.md",
-    "notion/附：lunux常用指令.md.baiduyun.uploading.cfg",
-    "static/Pasted Image 20231224105410_354.png.baiduyun.uploading.cfg",
-    "static/Pasted Image 20231224105410_354.png",
     "notion/operator-重载运算符.md",
     "notion/基类指针转化为派生类指针.md",
-    "static/Pasted Image 20231224105130_726.png.baiduyun.uploading.cfg",
-    "static/Pasted Image 20231224105130_726.png",
     "notion/构造函数.md",
-    "notion/构造函数.md.baiduyun.uploading.cfg",
-    "static/Pasted Image 20231224105024_346.jpg.baiduyun.uploading.cfg",
-    "static/Pasted Image 20231224105024_346.jpg",
-    "static/Pasted Image 20231224104945_019.jpg",
-    "static/Pasted Image 20231224104915_009.jpg",
     "notion/类的类型转换.md",
     "notion/类中new，复制构造函数、重载  =.md",
     "索引/C语言.md",
-    "索引/数据结构与算法.md",
     "Excalidraw/双链表.md",
     "Excalidraw/循环链表.md",
-    "static/Pasted Image 20231223172348_186.png",
-    "static/Pasted Image 20231223172318_188.png",
     "notion/单链表.md",
     "notion/stdio.h--printf--scanf.md",
     "notion/多继承，菱形继承，虚继承.md",
