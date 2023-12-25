@@ -98,17 +98,19 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/基类与派生类.md"
+                "file": "notion/队列与循环队列.md"
               }
             }
           },
           {
-            "id": "2f2446018b75e0af",
+            "id": "6a38ee552165852f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "notion/队列与循环队列.md"
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -188,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notion/队列与循环队列.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notion/队列与循环队列.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notion/队列与循环队列.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -250,9 +252,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2f2446018b75e0af",
+  "active": "6a38ee552165852f",
   "lastOpenFiles": [
+    "notion/队列与循环队列.md",
+    "conflict-files-obsidian-git.md",
+    "conflict-files-obsidian-git.md.baiduyun.uploading.cfg",
     "索引/数据结构与算法.md",
+    "Excalidraw/基类与派生类.md",
     "Excalidraw/二叉树.md",
     "Excalidraw/二叉树.md.baiduyun.uploading.cfg",
     "static/Pasted Image 20231225111837_003.png.baiduyun.uploading.cfg",
@@ -269,9 +275,7 @@
     "static/Pasted Image 20231225102442_205.png",
     "static/Pasted Image 20231225102427_204.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231225102427_204.png",
-    "static/Pasted Image 20231225102411_197.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231225102411_197.png",
-    "Excalidraw/基类与派生类.md",
     "索引/C++.md",
     "static/Pasted Image 20231224204340_206.png",
     "static/Pasted Image 20231224204236_190.png",
@@ -295,8 +299,6 @@
     "notion/enum-枚举.md",
     "notion/strcpy(),strcat()字符串的修改.md",
     "notion/cctype-识别函数内是字符数字符号.md",
-    "notion/union-共用体.md",
-    "notion/this指针.md",
     "未命名.canvas",
     "画板案例.canvas",
     "索引/大纲导图.canvas",
