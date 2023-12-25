@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/双链表.md",
+                "file": "索引/数据结构与算法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/双链表.md",
+                "file": "索引/数据结构与算法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/双链表.md"
+                "file": "索引/数据结构与算法.md"
               }
             }
           }
@@ -250,8 +250,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f4716974415f6382",
+  "active": "a0ff756d6c103630",
   "lastOpenFiles": [
+    "Excalidraw/双链表.md",
     "重点/5.md.baiduyun.uploading.cfg",
     "索引/数据结构与算法.md.baiduyun.uploading.cfg",
     "索引/python大纲.md.baiduyun.uploading.cfg",
@@ -262,7 +263,6 @@
     "static/void.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231224105800_065.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231224105638_410.png.baiduyun.uploading.cfg",
-    "static/Pasted Image 20231224105410_354.png.baiduyun.uploading.cfg",
     "索引/数据结构与算法.md",
     "Excalidraw/基类与派生类.md",
     "索引/C++.md",
@@ -284,7 +284,6 @@
     "notion/类的类型转换.md",
     "notion/类中new，复制构造函数、重载  =.md",
     "索引/C语言.md",
-    "Excalidraw/双链表.md",
     "Excalidraw/循环链表.md",
     "notion/单链表.md",
     "notion/stdio.h--printf--scanf.md",
