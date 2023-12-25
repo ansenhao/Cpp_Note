@@ -64,8 +64,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "20f15777a855eb8c",
@@ -88,7 +87,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/二叉树.md"
+                "file": "notion/虚函数.md"
               }
             }
           }
@@ -168,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/二叉树.md",
+                "file": "notion/虚函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/二叉树.md",
+                "file": "notion/虚函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/二叉树.md"
+                "file": "notion/虚函数.md"
               }
             }
           }
@@ -232,6 +231,10 @@
   },
   "active": "7fccf4ce62a3fb08",
   "lastOpenFiles": [
+    "索引/C++.md",
+    "notion/虚函数.md",
+    "Excalidraw/基类与派生类.md",
+    "Excalidraw/二叉树.md",
     "Excalidraw/二叉树.md.baiduyun.uploading.cfg",
     "static/Pasted Image 20231225171546_927.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231225171546_927.png",
@@ -252,19 +255,15 @@
     "索引/数据结构与算法.md",
     "notion/队列与循环队列.md",
     "notion/队列与循环队列.md.baiduyun.uploading.cfg",
-    "Excalidraw/二叉树.md",
-    "static/Pasted Image 20231225142101_108.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231225142101_108.png",
     "static/Pasted Image 20231225141855_093.png",
     "索引/python大纲.md",
     "notion/递归.md",
-    "索引/C++.md",
     "notion/printf--scanf.md",
     "索引/C语言.md",
     "Excalidraw/malloc、free.md",
     "notion/栈的应用.md",
     "conflict-files-obsidian-git.md",
-    "Excalidraw/基类与派生类.md",
     "Excalidraw/双链表.md",
     "notion/继承-父子类.md",
     "notion/附：lunux常用指令.md",
