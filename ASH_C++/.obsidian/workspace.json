@@ -65,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "20f15777a855eb8c",
@@ -93,7 +93,7 @@
             }
           },
           {
-            "id": "d4ad0ccfca0d9e75",
+            "id": "7fccf4ce62a3fb08",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -101,19 +101,9 @@
                 "file": "notion/stdio.h--printf--scanf.md"
               }
             }
-          },
-          {
-            "id": "ccc120b1e60d88d9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/malloc、free.md"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/malloc、free.md",
+                "file": "notion/stdio.h--printf--scanf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/malloc、free.md",
+                "file": "notion/stdio.h--printf--scanf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/malloc、free.md"
+                "file": "notion/stdio.h--printf--scanf.md"
               }
             }
           }
@@ -250,16 +240,17 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "ccc120b1e60d88d9",
+  "active": "7fccf4ce62a3fb08",
   "lastOpenFiles": [
+    "notion/stdio.h--printf--scanf.md.baiduyun.uploading.cfg",
+    "索引/C语言.md",
+    "notion/stdio.h--printf--scanf.md",
     "Excalidraw/malloc、free.md.baiduyun.uploading.cfg",
+    "Excalidraw/malloc、free.md",
     "static/Pasted Image 20231225114808_139.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231225114808_139.png",
     "索引/C语言.md.baiduyun.uploading.cfg",
-    "索引/C语言.md",
-    "Excalidraw/malloc、free.md",
     "Excalidraw/Drawing 2023-12-25 11.47.27.excalidraw.md.baiduyun.uploading.cfg",
-    "notion/stdio.h--printf--scanf.md",
     "Excalidraw/二叉树.md",
     "Excalidraw/二叉树.md.baiduyun.uploading.cfg",
     "static/Pasted Image 20231225114532_383.png.baiduyun.uploading.cfg",
@@ -270,9 +261,7 @@
     "static/Pasted Image 20231225114424_946.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231225114425_365.png",
     "static/Pasted Image 20231225114424_946.png",
-    "static/Pasted Image 20231225114410_364.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231225114410_364.png",
-    "static/Pasted Image 20231225114355_364.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231225114355_364.png",
     "索引/数据结构与算法.md",
     "notion/队列与循环队列.md",

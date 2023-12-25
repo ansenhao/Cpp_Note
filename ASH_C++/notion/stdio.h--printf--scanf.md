@@ -50,7 +50,6 @@ a58203d59fcc00176cbe3011ed8266e9ac159938: [[Pasted Image 20231218141347_144.png]
 475a87333cb2016c18f053ac41a4e794e9afc00d: [[Pasted Image 20231221122756_243.png]]
 3667689e8a6e426d3772d52f1f89629e6e3fd889: [[Pasted Image 20231222123602_905.png]]
 2f3945e66d870b6e41bd73a6d4db5a6abc52035a: [[Pasted Image 20231222123617_909.png]]
-210022c4ae121aff1e9e27df8cb1dae68c0f6057: [[Pasted Image 20231223154933_212.png]]
 
 %%
 # Drawing
@@ -58,7 +57,7 @@ a58203d59fcc00176cbe3011ed8266e9ac159938: [[Pasted Image 20231218141347_144.png]
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.4",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.13",
 	"elements": [
 		{
 			"type": "image",
@@ -761,29 +760,29 @@ a58203d59fcc00176cbe3011ed8266e9ac159938: [[Pasted Image 20231218141347_144.png]
 			]
 		},
 		{
-			"id": "wu93KICHVKiIc_P7Mo0-x",
 			"type": "image",
-			"x": -704.2832625054491,
-			"y": 657.0433116438726,
-			"width": 1424.7023239734583,
-			"height": 166.42864118303555,
-			"angle": 0,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
+			"version": 53,
+			"versionNonce": 1850297552,
+			"isDeleted": true,
+			"id": "wu93KICHVKiIc_P7Mo0-x",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -704.2832625054491,
+			"y": 657.0433116438726,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 1424.7023239734583,
+			"height": 166.42864118303555,
+			"seed": 1370924928,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1370924928,
-			"version": 52,
-			"versionNonce": 188807040,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1703317774354,
+			"boundElements": [],
+			"updated": 1703476102737,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -809,10 +808,10 @@ a58203d59fcc00176cbe3011ed8266e9ac159938: [[Pasted Image 20231218141347_144.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1356.2119211271006,
-		"scrollY": 940.0282520768307,
+		"scrollX": 1094.0036473977239,
+		"scrollY": 1029.040180790675,
 		"zoom": {
-			"value": 0.35000000000000003
+			"value": 0.6000000000000001
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
