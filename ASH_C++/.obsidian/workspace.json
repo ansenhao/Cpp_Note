@@ -65,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "20f15777a855eb8c",
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notion/printf--scanf.md",
+                "file": "索引/数据结构与算法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notion/printf--scanf.md",
+                "file": "索引/数据结构与算法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notion/printf--scanf.md"
+                "file": "索引/数据结构与算法.md"
               }
             }
           }
@@ -230,8 +230,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "7fccf4ce62a3fb08",
+  "active": "a0ff756d6c103630",
   "lastOpenFiles": [
+    "notion/printf--scanf.md",
     "notion/printf--scanf.md.baiduyun.uploading.cfg",
     "static/Pasted Image 20231225123202_275.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231225123202_275.png",
@@ -248,11 +249,9 @@
     "static/Pasted Image 20231225115104_753.png",
     "索引/数据结构与算法.md",
     "索引/C语言.md.baiduyun.uploading.cfg",
-    "notion/printf--scanf.md",
     "notion/stdio.h--printf--scanf.md.baiduyun.uploading.cfg",
     "Excalidraw/malloc、free.md.baiduyun.uploading.cfg",
     "Excalidraw/malloc、free.md",
-    "static/Pasted Image 20231225114808_139.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231225114808_139.png",
     "static/Pasted Image 20231225114532_383.png",
     "static/Pasted Image 20231225114501_375.png",
