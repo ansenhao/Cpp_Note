@@ -64,8 +64,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "20f15777a855eb8c",
@@ -88,7 +87,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/二叉树.md"
+                "file": "notion/递归.md"
               }
             }
           }
@@ -168,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/二叉树.md",
+                "file": "notion/递归.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/二叉树.md",
+                "file": "notion/递归.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/二叉树.md"
+                "file": "notion/递归.md"
               }
             }
           }
@@ -232,8 +231,9 @@
   },
   "active": "7fccf4ce62a3fb08",
   "lastOpenFiles": [
-    "索引/数据结构与算法.md",
+    "索引/C++.md",
     "Excalidraw/二叉树.md",
+    "索引/数据结构与算法.md",
     "notion/printf--scanf.md.baiduyun.uploading.cfg",
     "notion/printf--scanf.md",
     "static/Pasted Image 20231225123202_275.png.baiduyun.uploading.cfg",
@@ -262,7 +262,6 @@
     "conflict-files-obsidian-git.md",
     "Excalidraw/基类与派生类.md",
     "Excalidraw/双链表.md",
-    "索引/C++.md",
     "notion/继承-父子类.md",
     "notion/附：lunux常用指令.md",
     "notion/operator-重载运算符.md",
