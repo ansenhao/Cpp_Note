@@ -85,9 +85,11 @@
             "id": "7fccf4ce62a3fb08",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "notion/虚函数.md"
+                "file": "notion/多继承，菱形继承，虚继承.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -167,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notion/虚函数.md",
+                "file": "notion/多继承，菱形继承，虚继承.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notion/虚函数.md",
+                "file": "notion/多继承，菱形继承，虚继承.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notion/虚函数.md"
+                "file": "notion/多继承，菱形继承，虚继承.md"
               }
             }
           }
@@ -231,12 +233,13 @@
   },
   "active": "7fccf4ce62a3fb08",
   "lastOpenFiles": [
-    "static/Pasted Image 20231225225355_387.png",
-    "notion/虚函数.md.baiduyun.uploading.cfg",
-    "Excalidraw/基类与派生类.md.baiduyun.uploading.cfg",
     "索引/C++.md",
-    "Excalidraw/基类与派生类.md",
     "notion/虚函数.md",
+    "notion/虚函数.md.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231225225355_387.png.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231225225355_387.png",
+    "Excalidraw/基类与派生类.md.baiduyun.uploading.cfg",
+    "Excalidraw/基类与派生类.md",
     "static/Pasted Image 20231225224448_266.jpg.baiduyun.uploading.cfg",
     "static/Pasted Image 20231225224448_266.jpg",
     "索引/C++.md.baiduyun.uploading.cfg",
@@ -251,12 +254,10 @@
     "static/Pasted Image 20231225213725_290.png",
     "static/Pasted Image 20231225211343_001.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231225211343_001.png",
-    "static/Pasted Image 20231225204000_769.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231225204000_769.png",
     "static/Pasted Image 20231225204000_757.png",
     "static/Pasted Image 20231225194906_995.png",
     "notion/构造函数.md",
-    "static/Pasted Image 20231225194613_020.png",
     "Excalidraw/二叉树.md",
     "索引/数据结构与算法.md",
     "notion/队列与循环队列.md",
