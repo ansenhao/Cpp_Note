@@ -10,8 +10,6 @@ cp
 
 修改名称：mv 文件名.cpp 新文件名.cpp
 
-拷贝文件夹：cp -r tabten0/tabtenl
-
 查看文件列表： ls
 
 创建目录：mkdir 目录名
