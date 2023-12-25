@@ -88,7 +88,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "notion/printf--scanf.md"
+                "file": "Excalidraw/二叉树.md"
               }
             }
           }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "索引/数据结构与算法.md",
+                "file": "Excalidraw/二叉树.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "索引/数据结构与算法.md",
+                "file": "Excalidraw/二叉树.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "索引/数据结构与算法.md"
+                "file": "Excalidraw/二叉树.md"
               }
             }
           }
@@ -230,14 +230,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "a0ff756d6c103630",
+  "active": "7fccf4ce62a3fb08",
   "lastOpenFiles": [
-    "notion/printf--scanf.md",
+    "索引/数据结构与算法.md",
+    "Excalidraw/二叉树.md",
     "notion/printf--scanf.md.baiduyun.uploading.cfg",
+    "notion/printf--scanf.md",
     "static/Pasted Image 20231225123202_275.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231225123202_275.png",
     "索引/C语言.md",
-    "Excalidraw/二叉树.md",
     "Excalidraw/二叉树.md.baiduyun.uploading.cfg",
     "static/Pasted Image 20231225122308_221.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231225122308_221.png",
@@ -247,7 +248,6 @@
     "static/Pasted Image 20231225115557_057.png",
     "static/Pasted Image 20231225115104_753.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231225115104_753.png",
-    "索引/数据结构与算法.md",
     "索引/C语言.md.baiduyun.uploading.cfg",
     "notion/stdio.h--printf--scanf.md.baiduyun.uploading.cfg",
     "Excalidraw/malloc、free.md.baiduyun.uploading.cfg",
