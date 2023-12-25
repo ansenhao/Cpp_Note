@@ -101,9 +101,19 @@
                 "file": "notion/stdio.h--printf--scanf.md"
               }
             }
+          },
+          {
+            "id": "ccc120b1e60d88d9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/malloc、free.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -178,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "索引/C语言.md",
+                "file": "Excalidraw/malloc、free.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "索引/C语言.md",
+                "file": "Excalidraw/malloc、free.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "索引/C语言.md"
+                "file": "Excalidraw/malloc、free.md"
               }
             }
           }
@@ -240,10 +250,16 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "591c611c09745fad",
+  "active": "ccc120b1e60d88d9",
   "lastOpenFiles": [
-    "notion/stdio.h--printf--scanf.md",
+    "Excalidraw/malloc、free.md.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231225114808_139.png.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231225114808_139.png",
+    "索引/C语言.md.baiduyun.uploading.cfg",
     "索引/C语言.md",
+    "Excalidraw/malloc、free.md",
+    "Excalidraw/Drawing 2023-12-25 11.47.27.excalidraw.md.baiduyun.uploading.cfg",
+    "notion/stdio.h--printf--scanf.md",
     "Excalidraw/二叉树.md",
     "Excalidraw/二叉树.md.baiduyun.uploading.cfg",
     "static/Pasted Image 20231225114532_383.png.baiduyun.uploading.cfg",
@@ -258,19 +274,15 @@
     "static/Pasted Image 20231225114410_364.png",
     "static/Pasted Image 20231225114355_364.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231225114355_364.png",
-    "notion/队列与循环队列.md.baiduyun.uploading.cfg",
-    "static/Pasted Image 20231225114323_868.png.baiduyun.uploading.cfg",
     "索引/数据结构与算法.md",
     "notion/队列与循环队列.md",
     "static/Pasted Image 20231225114323_868.png",
     "notion/栈的应用.md",
     "conflict-files-obsidian-git.md",
-    "conflict-files-obsidian-git.md.baiduyun.uploading.cfg",
     "Excalidraw/基类与派生类.md",
     "static/Pasted Image 20231225111837_003.png",
     "static/Pasted Image 20231225111511_953.png",
     "Excalidraw/双链表.md",
-    "static/Pasted Image 20231225102457_206.png",
     "索引/C++.md",
     "notion/继承-父子类.md",
     "notion/附：lunux常用指令.md",
@@ -286,7 +298,6 @@
     "notion/析构函数.md",
     "notion/类的声明、定义、调用.md",
     "notion/enum-枚举.md",
-    "notion/strcpy(),strcat()字符串的修改.md",
     "未命名.canvas",
     "画板案例.canvas",
     "索引/大纲导图.canvas",
