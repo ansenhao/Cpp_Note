@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "索引/数据结构与算法.md",
+                "file": "Excalidraw/双链表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "索引/数据结构与算法.md",
+                "file": "Excalidraw/双链表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "索引/数据结构与算法.md"
+                "file": "Excalidraw/双链表.md"
               }
             }
           }
@@ -250,8 +250,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "a0ff756d6c103630",
+  "active": "f4716974415f6382",
   "lastOpenFiles": [
+    "索引/数据结构与算法.md",
     "Excalidraw/双链表.md",
     "重点/5.md.baiduyun.uploading.cfg",
     "索引/数据结构与算法.md.baiduyun.uploading.cfg",
@@ -263,7 +264,6 @@
     "static/void.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231224105800_065.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231224105638_410.png.baiduyun.uploading.cfg",
-    "索引/数据结构与算法.md",
     "Excalidraw/基类与派生类.md",
     "索引/C++.md",
     "static/Pasted Image 20231224204340_206.png",
