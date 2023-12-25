@@ -65,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "20f15777a855eb8c",
@@ -98,7 +98,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/二叉树.md"
+                "file": "notion/stdio.h--printf--scanf.md"
               }
             }
           }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/二叉树.md",
+                "file": "索引/C语言.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/二叉树.md",
+                "file": "索引/C语言.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/二叉树.md"
+                "file": "索引/C语言.md"
               }
             }
           }
@@ -240,8 +240,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d4ad0ccfca0d9e75",
+  "active": "591c611c09745fad",
   "lastOpenFiles": [
+    "notion/stdio.h--printf--scanf.md",
+    "索引/C语言.md",
+    "Excalidraw/二叉树.md",
     "Excalidraw/二叉树.md.baiduyun.uploading.cfg",
     "static/Pasted Image 20231225114532_383.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231225114532_383.png",
@@ -264,8 +267,6 @@
     "conflict-files-obsidian-git.md",
     "conflict-files-obsidian-git.md.baiduyun.uploading.cfg",
     "Excalidraw/基类与派生类.md",
-    "Excalidraw/二叉树.md",
-    "static/Pasted Image 20231225111837_003.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231225111837_003.png",
     "static/Pasted Image 20231225111511_953.png",
     "Excalidraw/双链表.md",
@@ -278,10 +279,8 @@
     "notion/构造函数.md",
     "notion/类的类型转换.md",
     "notion/类中new，复制构造函数、重载  =.md",
-    "索引/C语言.md",
     "Excalidraw/循环链表.md",
     "notion/单链表.md",
-    "notion/stdio.h--printf--scanf.md",
     "notion/多继承，菱形继承，虚继承.md",
     "notion/字符指针-char星.md",
     "notion/析构函数.md",
