@@ -98,7 +98,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "notion/队列与循环队列.md"
+                "file": "notion/栈的应用.md"
               }
             }
           }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notion/队列与循环队列.md",
+                "file": "notion/栈的应用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notion/队列与循环队列.md",
+                "file": "notion/栈的应用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notion/队列与循环队列.md"
+                "file": "notion/栈的应用.md"
               }
             }
           }
@@ -243,8 +243,8 @@
   "active": "d4ad0ccfca0d9e75",
   "lastOpenFiles": [
     "索引/数据结构与算法.md",
-    "notion/栈的应用.md",
     "notion/队列与循环队列.md",
+    "notion/栈的应用.md",
     "conflict-files-obsidian-git.md",
     "conflict-files-obsidian-git.md.baiduyun.uploading.cfg",
     "Excalidraw/基类与派生类.md",
