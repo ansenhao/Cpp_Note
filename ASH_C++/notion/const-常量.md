@@ -37,6 +37,8 @@ void show() const;   保证函数不会修改调用对象
 函数定义的开头：
 void stock::show() const ^g6ZGSmwm
 
+const this ^0psVRdtW
+
 
 # Embedded files
 d2c657698a208d988df417e3cf084f20578ecd63: [[Pasted Image 20231205091151_062.png]]
@@ -53,6 +55,7 @@ d069765358245ce4623b0761ac41a17b3087caf6: [[Pasted Image 20231211122153_863.png]
 e39336b3faefa6e96f1c875946b916e9733befb0: [[Pasted Image 20231214161839_230.png]]
 cd6de7941e8fc29d8416ed8a6754ef96560b0817: [[Pasted Image 20231216085931_680.jpg]]
 dfe151a14f6034a96b9039962d45ef9f8be831b5: [[Pasted Image 20231216090016_685.png]]
+8bf108c8999abb77cda61aa1cdcb44883ef6cbfd: [[Pasted Image 20231226221339_059.png]]
 
 %%
 # Drawing
@@ -60,7 +63,7 @@ dfe151a14f6034a96b9039962d45ef9f8be831b5: [[Pasted Image 20231216090016_685.png]
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.4",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.13",
 	"elements": [
 		{
 			"type": "image",
@@ -2422,31 +2425,31 @@ dfe151a14f6034a96b9039962d45ef9f8be831b5: [[Pasted Image 20231216090016_685.png]
 			"containerId": null,
 			"originalText": "const Stock land = Stock(\"Kludgehorn Properties\");\nland.show() ;      报错。因为 show()的代码无法确保调用对象不被修改\n\nvoid show() const;   保证函数不会修改调用对象\n\n函数定义的开头：\nvoid stock::show() const",
 			"lineHeight": 1.2,
-			"baseline": 197
+			"baseline": 198
 		},
 		{
-			"id": "hwcmg9Rph8SuV1_Np5lxJ",
 			"type": "image",
-			"x": 1411.8752609518358,
-			"y": 774.5728316092711,
-			"width": 737.2856445312501,
-			"height": 214.32112907838044,
-			"angle": 0,
-			"strokeColor": "transparent",
-			"backgroundColor": "#ffc9c9",
+			"version": 91,
+			"versionNonce": 1869081191,
+			"isDeleted": false,
+			"id": "hwcmg9Rph8SuV1_Np5lxJ",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1411.8752609518358,
+			"y": 774.5728316092711,
+			"strokeColor": "transparent",
+			"backgroundColor": "#ffc9c9",
+			"width": 737.2856445312501,
+			"height": 214.32112907838044,
+			"seed": 1635561511,
 			"groupIds": [],
 			"frameId": "2Fhc80k-9pq1JpX91rxOQ",
 			"roundness": null,
-			"seed": 1635561511,
-			"version": 91,
-			"versionNonce": 1869081191,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702688415089,
 			"link": null,
 			"locked": false,
@@ -2458,28 +2461,28 @@ dfe151a14f6034a96b9039962d45ef9f8be831b5: [[Pasted Image 20231216090016_685.png]
 			]
 		},
 		{
-			"id": "d1WusC64LjgrCQenUezcP",
 			"type": "image",
-			"x": 1417.875470215228,
-			"y": 998.7156538748959,
-			"width": 447.5714285714285,
-			"height": 125.65406518841633,
-			"angle": 0,
-			"strokeColor": "transparent",
-			"backgroundColor": "#ffc9c9",
+			"version": 61,
+			"versionNonce": 187667337,
+			"isDeleted": false,
+			"id": "d1WusC64LjgrCQenUezcP",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1417.875470215228,
+			"y": 998.7156538748959,
+			"strokeColor": "transparent",
+			"backgroundColor": "#ffc9c9",
+			"width": 447.57142857142856,
+			"height": 125.65406518841631,
+			"seed": 2083401,
 			"groupIds": [],
 			"frameId": "2Fhc80k-9pq1JpX91rxOQ",
 			"roundness": null,
-			"seed": 2083401,
-			"version": 61,
-			"versionNonce": 187667337,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702688415089,
 			"link": null,
 			"locked": false,
@@ -2524,6 +2527,76 @@ dfe151a14f6034a96b9039962d45ef9f8be831b5: [[Pasted Image 20231216090016_685.png]
 				}
 			},
 			"name": "const 成员函数"
+		},
+		{
+			"id": "-g0SbjPOAxetZDpFEfCmh",
+			"type": "image",
+			"x": 1401.623254277953,
+			"y": 1361.4647070373094,
+			"width": 1414,
+			"height": 392,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "#ffc9c9",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 463055856,
+			"version": 78,
+			"versionNonce": 795595024,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1703600007568,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "8bf108c8999abb77cda61aa1cdcb44883ef6cbfd",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "0psVRdtW",
+			"type": "text",
+			"x": 1419.7343653890644,
+			"y": 1291.9091514817537,
+			"width": 117.1875,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "#ffc9c9",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 676777232,
+			"version": 11,
+			"versionNonce": 914563056,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1703600017979,
+			"link": null,
+			"locked": false,
+			"text": "const this",
+			"rawText": "const this",
+			"fontSize": 20,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 20,
+			"containerId": null,
+			"originalText": "const this",
+			"lineHeight": 1.2
 		}
 	],
 	"appState": {
@@ -2541,10 +2614,10 @@ dfe151a14f6034a96b9039962d45ef9f8be831b5: [[Pasted Image 20231216090016_685.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -998.6231718467864,
-		"scrollY": -718.2312334874816,
+		"scrollX": 53.47744016649108,
+		"scrollY": -59.33970703730949,
 		"zoom": {
-			"value": 1.3575370403041942
+			"value": 0.45
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
