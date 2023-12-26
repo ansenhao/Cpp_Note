@@ -114,6 +114,8 @@ str1="defaul" ^lc2wOxWz
 因为默认的赋值运算符内没有new
 所以重写 ^A4CqrLMA
 
+如果语句创建新的对象，则使用初始化；如果语句修改已有对象的值，则是赋值： ^1l0FIf5Z
+
 
 # Embedded files
 43be0e2ca0327ab27ee0c9993aff3aa51c659af3: [[Pasted Image 20231220092352_786.png]]
@@ -2593,6 +2595,43 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"name": "复制构造函数"
 		},
 		{
+			"id": "1l0FIf5Z",
+			"type": "text",
+			"x": -2720.292905626014,
+			"y": 564.8417288229125,
+			"width": 1112.3076923076926,
+			"height": 37.076923076923094,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": "IC_8thdJzIwtoNtRCQ1jf",
+			"roundness": null,
+			"seed": 324636944,
+			"version": 49,
+			"versionNonce": 162705392,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1703599317039,
+			"link": null,
+			"locked": false,
+			"text": "如果语句创建新的对象，则使用初始化；如果语句修改已有对象的值，则是赋值：",
+			"rawText": "如果语句创建新的对象，则使用初始化；如果语句修改已有对象的值，则是赋值：",
+			"fontSize": 30.897435897435916,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 29.999999999999993,
+			"containerId": null,
+			"originalText": "如果语句创建新的对象，则使用初始化；如果语句修改已有对象的值，则是赋值：",
+			"lineHeight": 1.2
+		},
+		{
 			"id": "IC_8thdJzIwtoNtRCQ1jf",
 			"type": "frame",
 			"x": -2815.7306345637417,
@@ -2643,10 +2682,10 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 2793.285694087552,
-		"scrollY": 370.0140404078568,
+		"scrollX": 3415.4705231473818,
+		"scrollY": 823.7727816665981,
 		"zoom": {
-			"value": 0.65
+			"value": 0.44999999999999996
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
