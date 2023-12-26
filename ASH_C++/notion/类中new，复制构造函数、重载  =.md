@@ -138,6 +138,7 @@ dc44dc22cb12fb019c4e3d509727e02816075d1a: [[Pasted Image 20231222233402_740.png]
 327665b35f306938c7409d7aaaf0692b9f5964cf: [[Pasted Image 20231223102448_246.png]]
 66aab9801d19e9034400a66b8b3e35345d0fd328: [[Pasted Image 20231223102533_263.png]]
 725507a82d918699d1e25f13a74b766ecb5b84fd: [[Pasted Image 20231223102548_269.png]]
+ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]]
 
 %%
 # Drawing
@@ -145,7 +146,7 @@ dc44dc22cb12fb019c4e3d509727e02816075d1a: [[Pasted Image 20231222233402_740.png]
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.4",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.13",
 	"elements": [
 		{
 			"type": "text",
@@ -359,7 +360,7 @@ dc44dc22cb12fb019c4e3d509727e02816075d1a: [[Pasted Image 20231222233402_740.png]
 			"containerId": null,
 			"originalText": "对于由于默认赋值运算符不合适而导致的问题，解决办法是重新定义。\n\n1.由于目标对象可能引用了以前分配的数据，所以函数应使用delete[]来释放这些数据。\n2.函数应当避免将对象赋给自身否则，给对象重新赋值前，释放内存操作可能删除对象的内容。\n3.函数返回一个指向调用对象的引用。",
 			"lineHeight": 1.2,
-			"baseline": 115
+			"baseline": 116
 		},
 		{
 			"type": "text",
@@ -716,7 +717,7 @@ dc44dc22cb12fb019c4e3d509727e02816075d1a: [[Pasted Image 20231222233402_740.png]
 			"containerId": null,
 			"originalText": "//2800是指针的地址",
 			"lineHeight": 1.2,
-			"baseline": 8
+			"baseline": 9
 		},
 		{
 			"type": "image",
@@ -823,7 +824,7 @@ dc44dc22cb12fb019c4e3d509727e02816075d1a: [[Pasted Image 20231222233402_740.png]
 			"containerId": null,
 			"originalText": "注意：",
 			"lineHeight": 1.2,
-			"baseline": 55
+			"baseline": 56
 		},
 		{
 			"type": "text",
@@ -897,7 +898,7 @@ dc44dc22cb12fb019c4e3d509727e02816075d1a: [[Pasted Image 20231222233402_740.png]
 			"containerId": null,
 			"originalText": "原因在于，晚创建的对象可能依赖于早创建的对象",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "frame",
@@ -1146,7 +1147,7 @@ dc44dc22cb12fb019c4e3d509727e02816075d1a: [[Pasted Image 20231222233402_740.png]
 			"containerId": null,
 			"originalText": "我们自己创建的构造函数中有new\n 同时析构函数中有delete\n而默认的复制构造函数中没有new\n当有复制构造函数被调用  就会多一次析构函数  \n总数3次new构造 一次复制构造    \n4次析构  多delete了一次  所以报错 ",
 			"lineHeight": 1.2,
-			"baseline": 139
+			"baseline": 140
 		},
 		{
 			"type": "text",
@@ -1183,7 +1184,7 @@ dc44dc22cb12fb019c4e3d509727e02816075d1a: [[Pasted Image 20231222233402_740.png]
 			"containerId": null,
 			"originalText": "假设要创建一个类，其一个成员表示某人的姓。最简单的方法是使用字符数组成员来保存姓，但这种方法有一些缺陷。\n开始也许会使用一个14个字符的数组，然后发现数组太小，更保险的方法是，使用一个40个字符的数组。\n然而，如果创建包含2000个这种对象的数组，就会由于字符数组只有部分被使用而浪费大量的内存。",
 			"lineHeight": 1.2,
-			"baseline": 67
+			"baseline": 68
 		},
 		{
 			"type": "text",
@@ -1220,7 +1221,7 @@ dc44dc22cb12fb019c4e3d509727e02816075d1a: [[Pasted Image 20231222233402_740.png]
 			"containerId": null,
 			"originalText": "为什么类中要使用new?",
 			"lineHeight": 1.2,
-			"baseline": 50
+			"baseline": 51
 		},
 		{
 			"type": "text",
@@ -1257,7 +1258,7 @@ dc44dc22cb12fb019c4e3d509727e02816075d1a: [[Pasted Image 20231222233402_740.png]
 			"containerId": null,
 			"originalText": "为什么要重新编写默认复制构造函数?",
 			"lineHeight": 1.2,
-			"baseline": 50
+			"baseline": 51
 		},
 		{
 			"type": "image",
@@ -1327,7 +1328,7 @@ dc44dc22cb12fb019c4e3d509727e02816075d1a: [[Pasted Image 20231222233402_740.png]
 			"containerId": null,
 			"originalText": "例1",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -1364,7 +1365,7 @@ dc44dc22cb12fb019c4e3d509727e02816075d1a: [[Pasted Image 20231222233402_740.png]
 			"containerId": null,
 			"originalText": "例2",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "image",
@@ -1434,7 +1435,7 @@ dc44dc22cb12fb019c4e3d509727e02816075d1a: [[Pasted Image 20231222233402_740.png]
 			"containerId": null,
 			"originalText": "//默认构造函数",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -1471,7 +1472,7 @@ dc44dc22cb12fb019c4e3d509727e02816075d1a: [[Pasted Image 20231222233402_740.png]
 			"containerId": null,
 			"originalText": "//构造函数",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -1508,7 +1509,7 @@ dc44dc22cb12fb019c4e3d509727e02816075d1a: [[Pasted Image 20231222233402_740.png]
 			"containerId": null,
 			"originalText": "//构造函数",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -1545,7 +1546,7 @@ dc44dc22cb12fb019c4e3d509727e02816075d1a: [[Pasted Image 20231222233402_740.png]
 			"containerId": null,
 			"originalText": "//构造函数",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -1582,7 +1583,7 @@ dc44dc22cb12fb019c4e3d509727e02816075d1a: [[Pasted Image 20231222233402_740.png]
 			"containerId": null,
 			"originalText": "//复制构造函数",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -1619,7 +1620,7 @@ dc44dc22cb12fb019c4e3d509727e02816075d1a: [[Pasted Image 20231222233402_740.png]
 			"containerId": null,
 			"originalText": "//字符串转换为类 然后调用构造函数",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -1656,7 +1657,7 @@ dc44dc22cb12fb019c4e3d509727e02816075d1a: [[Pasted Image 20231222233402_740.png]
 			"containerId": null,
 			"originalText": "//默认赋值运算符",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "image",
@@ -1726,7 +1727,7 @@ dc44dc22cb12fb019c4e3d509727e02816075d1a: [[Pasted Image 20231222233402_740.png]
 			"containerId": null,
 			"originalText": "//字符串转换为类 然后调用构造函数，还将调用默认赋值运算符",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "image",
@@ -1834,7 +1835,7 @@ dc44dc22cb12fb019c4e3d509727e02816075d1a: [[Pasted Image 20231222233402_740.png]
 			"containerId": null,
 			"originalText": "//避免自己复制给自己，如果出现这种情况",
 			"lineHeight": 1.2,
-			"baseline": 12
+			"baseline": 13
 		},
 		{
 			"type": "text",
@@ -1871,7 +1872,7 @@ dc44dc22cb12fb019c4e3d509727e02816075d1a: [[Pasted Image 20231222233402_740.png]
 			"containerId": null,
 			"originalText": "//复制构造函数",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "image",
@@ -2099,7 +2100,7 @@ dc44dc22cb12fb019c4e3d509727e02816075d1a: [[Pasted Image 20231222233402_740.png]
 			"containerId": null,
 			"originalText": "案例",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -2136,7 +2137,7 @@ dc44dc22cb12fb019c4e3d509727e02816075d1a: [[Pasted Image 20231222233402_740.png]
 			"containerId": null,
 			"originalText": "//返回自己里的内容",
 			"lineHeight": 1.2,
-			"baseline": 12
+			"baseline": 13
 		},
 		{
 			"type": "text",
@@ -2173,7 +2174,7 @@ dc44dc22cb12fb019c4e3d509727e02816075d1a: [[Pasted Image 20231222233402_740.png]
 			"containerId": null,
 			"originalText": "//把 = 前面的hobby释放掉",
 			"lineHeight": 1.2,
-			"baseline": 12
+			"baseline": 13
 		},
 		{
 			"type": "text",
@@ -2210,7 +2211,7 @@ dc44dc22cb12fb019c4e3d509727e02816075d1a: [[Pasted Image 20231222233402_740.png]
 			"containerId": null,
 			"originalText": "//返回自己里更新过的内容",
 			"lineHeight": 1.2,
-			"baseline": 12
+			"baseline": 13
 		},
 		{
 			"type": "image",
@@ -2317,7 +2318,7 @@ dc44dc22cb12fb019c4e3d509727e02816075d1a: [[Pasted Image 20231222233402_740.png]
 			"containerId": null,
 			"originalText": "类 = const char*",
 			"lineHeight": 1.2,
-			"baseline": 19
+			"baseline": 20
 		},
 		{
 			"type": "text",
@@ -2354,31 +2355,31 @@ dc44dc22cb12fb019c4e3d509727e02816075d1a: [[Pasted Image 20231222233402_740.png]
 			"containerId": null,
 			"originalText": "因为默认的赋值运算符内没有new\n所以重写",
 			"lineHeight": 1.2,
-			"baseline": 43
+			"baseline": 44
 		},
 		{
-			"id": "EcWH8XsQBUuOdnk2_dKMh",
 			"type": "image",
-			"x": 2604.4317289546925,
-			"y": -1840.4775547665522,
-			"width": 593.1950862233232,
-			"height": 810.699951171875,
-			"angle": 0,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
+			"version": 261,
+			"versionNonce": 716635,
+			"isDeleted": false,
+			"id": "EcWH8XsQBUuOdnk2_dKMh",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 2604.4317289546925,
+			"y": -1840.4775547665522,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 593.1950862233232,
+			"height": 810.699951171875,
+			"seed": 1711135477,
 			"groupIds": [],
 			"frameId": "izMu6mEBEFxELo1cV27-s",
 			"roundness": null,
-			"seed": 1711135477,
-			"version": 261,
-			"versionNonce": 716635,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1703298500005,
 			"link": null,
 			"locked": false,
@@ -2390,28 +2391,28 @@ dc44dc22cb12fb019c4e3d509727e02816075d1a: [[Pasted Image 20231222233402_740.png]
 			]
 		},
 		{
-			"id": "B7ELalOqmE-EDge7sL20w",
 			"type": "image",
-			"x": 2236.1395683049245,
-			"y": -1842.203524712889,
-			"width": 333.301125329605,
-			"height": 1253.1426122053035,
-			"angle": 3.141592653589793,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
+			"version": 857,
+			"versionNonce": 962635157,
+			"isDeleted": false,
+			"id": "B7ELalOqmE-EDge7sL20w",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 3.141592653589793,
+			"x": 2236.1395683049245,
+			"y": -1842.2035247128888,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 333.301125329605,
+			"height": 1253.1426122053033,
+			"seed": 1347291669,
 			"groupIds": [],
 			"frameId": "izMu6mEBEFxELo1cV27-s",
 			"roundness": null,
-			"seed": 1347291669,
-			"version": 857,
-			"versionNonce": 962635157,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1703298524666,
 			"link": null,
 			"locked": false,
@@ -2423,28 +2424,28 @@ dc44dc22cb12fb019c4e3d509727e02816075d1a: [[Pasted Image 20231222233402_740.png]
 			]
 		},
 		{
-			"id": "UqfXh2DaNQINXvN3QJgWT",
 			"type": "image",
-			"x": 2607.3590716793756,
-			"y": -1013.2877123356909,
-			"width": 306.1047762882482,
-			"height": 429.510796335164,
-			"angle": 0,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
+			"version": 201,
+			"versionNonce": 491408379,
+			"isDeleted": false,
+			"id": "UqfXh2DaNQINXvN3QJgWT",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 2607.3590716793756,
+			"y": -1013.2877123356909,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 306.1047762882482,
+			"height": 429.51079633516406,
+			"seed": 962217301,
 			"groupIds": [],
 			"frameId": "izMu6mEBEFxELo1cV27-s",
 			"roundness": null,
-			"seed": 962217301,
-			"version": 201,
-			"versionNonce": 491408379,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1703298500005,
 			"link": null,
 			"locked": false,
@@ -2456,28 +2457,28 @@ dc44dc22cb12fb019c4e3d509727e02816075d1a: [[Pasted Image 20231222233402_740.png]
 			]
 		},
 		{
-			"id": "EKyJfloIqDpJuB79Os-CW",
 			"type": "image",
-			"x": 2931.653013050418,
-			"y": -1001.0203391944333,
-			"width": 259.57860372986516,
-			"height": 102.64253185654209,
-			"angle": 0,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
+			"version": 145,
+			"versionNonce": 1816970549,
+			"isDeleted": false,
+			"id": "EKyJfloIqDpJuB79Os-CW",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 2931.653013050418,
+			"y": -1001.0203391944333,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 259.57860372986516,
+			"height": 102.64253185654209,
+			"seed": 393999163,
 			"groupIds": [],
 			"frameId": "izMu6mEBEFxELo1cV27-s",
 			"roundness": null,
-			"seed": 393999163,
-			"version": 145,
-			"versionNonce": 1816970549,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1703298500005,
 			"link": null,
 			"locked": false,
@@ -2489,28 +2490,28 @@ dc44dc22cb12fb019c4e3d509727e02816075d1a: [[Pasted Image 20231222233402_740.png]
 			]
 		},
 		{
-			"id": "izMu6mEBEFxELo1cV27-s",
 			"type": "frame",
-			"x": 2208.193119645476,
-			"y": -1890.1778783018883,
-			"width": 1027.6721842638844,
-			"height": 1340.1807236212705,
-			"angle": 0,
-			"strokeColor": "#bbb",
-			"backgroundColor": "transparent",
+			"version": 143,
+			"versionNonce": 1605702811,
+			"isDeleted": false,
+			"id": "izMu6mEBEFxELo1cV27-s",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 2208.193119645476,
+			"y": -1890.1778783018883,
+			"strokeColor": "#bbb",
+			"backgroundColor": "transparent",
+			"width": 1027.6721842638844,
+			"height": 1340.1807236212705,
+			"seed": 1569942299,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1569942299,
-			"version": 143,
-			"versionNonce": 1605702811,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1703298500005,
 			"link": null,
 			"locked": false,
@@ -2522,6 +2523,39 @@ dc44dc22cb12fb019c4e3d509727e02816075d1a: [[Pasted Image 20231222233402_740.png]
 				}
 			},
 			"name": "动态分配string案例，包含大部分重载案例"
+		},
+		{
+			"id": "_tOtU-oXLDlY-MTuqTIR6",
+			"type": "image",
+			"x": 277.43603210292656,
+			"y": 57.390874122057994,
+			"width": 572,
+			"height": 219,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 825518576,
+			"version": 4,
+			"versionNonce": 1451978736,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1703599117884,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "ae832388763e2daacd1d300bcf9058273a621616",
+			"scale": [
+				1,
+				1
+			]
 		}
 	],
 	"appState": {
@@ -2539,10 +2573,10 @@ dc44dc22cb12fb019c4e3d509727e02816075d1a: [[Pasted Image 20231222233402_740.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 5985.625069440716,
-		"scrollY": 5609.406197487588,
+		"scrollX": 923.9728220637402,
+		"scrollY": 601.702875877942,
 		"zoom": {
-			"value": 0.1
+			"value": 0.6
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
