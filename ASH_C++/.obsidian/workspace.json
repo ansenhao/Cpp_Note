@@ -80,16 +80,6 @@
                 "file": "notion/虚函数.md"
               }
             }
-          },
-          {
-            "id": "8e1ee57f6fc90d06",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
         ]
       }
@@ -243,12 +233,12 @@
   "lastOpenFiles": [
     "索引/C++.md",
     "notion/构造函数.md",
+    "notion/虚函数.md",
     "notion/构造函数.md.baiduyun.uploading.cfg",
     "static/Pasted Image 20231227095053_233.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231227095038_226.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231227095053_233.png",
     "static/Pasted Image 20231227095038_226.png",
-    "notion/虚函数.md",
     "Excalidraw/二叉树.md",
     "Excalidraw/二叉树_冲突文件_Admin_20231227091641.md.baiduyun.uploading.cfg",
     "static/Pasted Image 20231226221339_059.png",
