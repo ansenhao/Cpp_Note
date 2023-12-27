@@ -77,7 +77,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "notion/strcpy(),strcat()字符串的修改.md"
+                "file": "notion/虚函数.md"
               }
             }
           }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notion/strcpy(),strcat()字符串的修改.md",
+                "file": "notion/虚函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notion/strcpy(),strcat()字符串的修改.md",
+                "file": "notion/虚函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notion/strcpy(),strcat()字符串的修改.md"
+                "file": "notion/虚函数.md"
               }
             }
           }
@@ -231,8 +231,9 @@
   },
   "active": "7fccf4ce62a3fb08",
   "lastOpenFiles": [
-    "notion/strcpy(),strcat()字符串的修改.md.baiduyun.uploading.cfg",
     "索引/C++.md",
+    "notion/strcpy(),strcat()字符串的修改.md",
+    "notion/strcpy(),strcat()字符串的修改.md.baiduyun.uploading.cfg",
     "notion/类中new，复制构造函数、重载  =.md",
     "notion/类中new，复制构造函数、重载  =.md.baiduyun.uploading.cfg",
     "static/Pasted Image 20231227154344_697.png.baiduyun.uploading.cfg",
@@ -260,7 +261,6 @@
     "static/Pasted Image 20231226215503_192.png",
     "static/Pasted Image 20231226222246_181.png",
     "notion/虚函数(1).md.baiduyun.downloading.cfg",
-    "notion/虚函数(1).md.baiduyun.downloading",
     "Excalidraw/二叉树_冲突文件_Admin_20231227091641.md",
     "索引/数据结构与算法.md",
     "notion/递归.md",
