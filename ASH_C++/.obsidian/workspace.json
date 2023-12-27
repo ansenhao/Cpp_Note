@@ -77,7 +77,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "notion/虚函数.md"
+                "file": "notion/类中new，复制构造函数、重载  =.md"
               }
             }
           }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notion/虚函数.md",
+                "file": "notion/类中new，复制构造函数、重载  =.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notion/虚函数.md",
+                "file": "notion/类中new，复制构造函数、重载  =.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notion/虚函数.md"
+                "file": "notion/类中new，复制构造函数、重载  =.md"
               }
             }
           }
@@ -232,6 +232,7 @@
   "active": "7fccf4ce62a3fb08",
   "lastOpenFiles": [
     "索引/C++.md",
+    "notion/虚函数.md",
     "Excalidraw/基类与派生类.md",
     "notion/类中new，复制构造函数、重载  =.md",
     "notion/类中new，复制构造函数、重载  =.md.baiduyun.uploading.cfg",
@@ -240,7 +241,6 @@
     "notion/operator-重载运算符.md",
     "notion/构造函数.md",
     "notion/构造函数.md.baiduyun.uploading.cfg",
-    "notion/虚函数.md",
     "static/Pasted Image 20231227095053_233.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231227095038_226.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231227095053_233.png",
