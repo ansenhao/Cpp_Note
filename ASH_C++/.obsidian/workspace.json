@@ -87,7 +87,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "notion/cin.md"
+                "file": "Excalidraw/基类与派生类.md"
               }
             }
           }
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "clear",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1e2f083c69547fa6",
@@ -167,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notion/cin.md",
+                "file": "Excalidraw/基类与派生类.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notion/cin.md",
+                "file": "Excalidraw/基类与派生类.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notion/cin.md"
+                "file": "Excalidraw/基类与派生类.md"
               }
             }
           }
@@ -231,15 +232,16 @@
   },
   "active": "7fccf4ce62a3fb08",
   "lastOpenFiles": [
-    "notion/while、do while.md",
     "索引/C++.md",
+    "notion/虚函数.md",
+    "notion/cin.md",
+    "notion/while、do while.md",
     "notion/getline(),get().md",
     "notion/读取文件.md",
     "notion/文件输出.md",
     "notion/字符指针-char星.md",
     "notion/类中new，复制构造函数、重载  =.md",
     "notion/strcpy(),strcat()字符串的修改.md",
-    "notion/虚函数.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/基类与派生类.md",
     "notion/operator-重载运算符.md",
@@ -276,7 +278,6 @@
     "索引/python大纲.md",
     "notion/printf--scanf.md",
     "索引/C语言.md",
-    "Excalidraw/malloc、free.md",
     "未命名.canvas",
     "画板案例.canvas",
     "索引/大纲导图.canvas",
