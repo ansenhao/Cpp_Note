@@ -90,9 +90,19 @@
                 "file": "notion/operator-重载运算符.md"
               }
             }
+          },
+          {
+            "id": "f4908316d46a860c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -229,7 +239,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "7fccf4ce62a3fb08",
+  "active": "f4908316d46a860c",
   "lastOpenFiles": [
     "static/Pasted Image 20231226225538_628.png",
     "notion/operator-重载运算符.md.baiduyun.uploading.cfg",
