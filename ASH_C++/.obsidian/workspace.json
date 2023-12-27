@@ -87,7 +87,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "notion/虚函数.md"
+                "file": "notion/strcpy(),strcat()字符串的修改.md"
               }
             }
           }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notion/虚函数.md",
+                "file": "notion/strcpy(),strcat()字符串的修改.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notion/虚函数.md",
+                "file": "notion/strcpy(),strcat()字符串的修改.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notion/虚函数.md"
+                "file": "notion/strcpy(),strcat()字符串的修改.md"
               }
             }
           }
@@ -231,9 +231,9 @@
   },
   "active": "7fccf4ce62a3fb08",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "notion/虚函数.md",
     "索引/C++.md",
+    "notion/虚函数.md",
+    "conflict-files-obsidian-git.md",
     "Excalidraw/基类与派生类.md",
     "notion/operator-重载运算符.md",
     "static/Pasted Image 20231227203533_386.png",
