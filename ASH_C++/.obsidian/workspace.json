@@ -87,7 +87,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "notion/while、do while.md"
+                "file": "notion/cin.md"
               }
             }
           }
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "clear",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,12 +146,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1e2f083c69547fa6",
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notion/while、do while.md",
+                "file": "notion/cin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notion/while、do while.md",
+                "file": "notion/cin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notion/while、do while.md"
+                "file": "notion/cin.md"
               }
             }
           }
@@ -231,6 +231,7 @@
   },
   "active": "7fccf4ce62a3fb08",
   "lastOpenFiles": [
+    "notion/while、do while.md",
     "索引/C++.md",
     "notion/getline(),get().md",
     "notion/读取文件.md",
@@ -276,7 +277,6 @@
     "notion/printf--scanf.md",
     "索引/C语言.md",
     "Excalidraw/malloc、free.md",
-    "notion/栈的应用.md",
     "未命名.canvas",
     "画板案例.canvas",
     "索引/大纲导图.canvas",
