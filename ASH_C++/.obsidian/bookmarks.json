@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1703638671876,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1703638652049,
+          "path": "索引/C++.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1703638652049,
+          "path": "索引/C语言.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1703638652049,
+          "path": "索引/数据结构与算法.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1703638652049,
+          "path": "索引/python大纲.md"
+        }
+      ],
+      "title": "目录"
+    }
+  ]
+}
