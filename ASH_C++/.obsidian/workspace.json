@@ -77,7 +77,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "notion/默认参数.md"
+                "file": "notion/new-delete-动态数组-指针算数.md"
               }
             }
           }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notion/默认参数.md",
+                "file": "notion/new-delete-动态数组-指针算数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notion/默认参数.md",
+                "file": "notion/new-delete-动态数组-指针算数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notion/默认参数.md"
+                "file": "notion/new-delete-动态数组-指针算数.md"
               }
             }
           }
@@ -232,6 +232,8 @@
   "active": "7fccf4ce62a3fb08",
   "lastOpenFiles": [
     "索引/C++.md",
+    "notion/pointers-指针.md",
+    "notion/默认参数.md",
     "notion/虚函数.md",
     "notion/strcpy(),strcat()字符串的修改.md",
     "notion/strcpy(),strcat()字符串的修改.md.baiduyun.uploading.cfg",
@@ -275,8 +277,6 @@
     "conflict-files-obsidian-git.md",
     "Excalidraw/双链表.md",
     "notion/继承-父子类.md",
-    "notion/附：lunux常用指令.md",
-    "notion/基类指针转化为派生类指针.md",
     "未命名.canvas",
     "画板案例.canvas",
     "索引/大纲导图.canvas",
