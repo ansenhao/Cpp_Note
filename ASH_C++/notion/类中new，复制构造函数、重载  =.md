@@ -329,8 +329,8 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 		},
 		{
 			"type": "text",
-			"version": 421,
-			"versionNonce": 1423111152,
+			"version": 480,
+			"versionNonce": 685283672,
 			"isDeleted": false,
 			"id": "TBulxj5x",
 			"fillStyle": "solid",
@@ -339,8 +339,8 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -2763.1305725908696,
-			"y": 77.31405188236317,
+			"x": -637.4164612627446,
+			"y": 950.0759798957561,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 843.4375,
@@ -350,7 +350,7 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"frameId": "IC_8thdJzIwtoNtRCQ1jf",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703599287591,
+			"updated": 1703644540137,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -362,12 +362,12 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"containerId": null,
 			"originalText": "对于由于默认赋值运算符不合适而导致的问题，解决办法是重新定义。\n\n1.由于目标对象可能引用了以前分配的数据，所以函数应使用delete[]来释放这些数据。\n2.函数应当避免将对象赋给自身否则，给对象重新赋值前，释放内存操作可能删除对象的内容。\n3.函数返回一个指向调用对象的引用。",
 			"lineHeight": 1.2,
-			"baseline": 116
+			"baseline": 115
 		},
 		{
 			"type": "text",
-			"version": 449,
-			"versionNonce": 2016343536,
+			"version": 508,
+			"versionNonce": 1637500968,
 			"isDeleted": false,
 			"id": "6HMzaEnO",
 			"fillStyle": "solid",
@@ -376,8 +376,8 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -2773.444589750468,
-			"y": 8.771131088557809,
+			"x": -647.7304784223429,
+			"y": 881.5330591019507,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 263.43994140625,
@@ -387,7 +387,7 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"frameId": "IC_8thdJzIwtoNtRCQ1jf",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703599287591,
+			"updated": 1703644540137,
 			"link": null,
 			"locked": false,
 			"fontSize": 32.933339436848954,
@@ -403,8 +403,8 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 		},
 		{
 			"type": "image",
-			"version": 398,
-			"versionNonce": 347781104,
+			"version": 457,
+			"versionNonce": 1378594392,
 			"isDeleted": false,
 			"id": "-qt4T7EqRmkgybcI18pi-",
 			"fillStyle": "solid",
@@ -413,8 +413,8 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -2633.916095051807,
-			"y": 241.97099942700572,
+			"x": -508.20198372368213,
+			"y": 1114.7329274403987,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
 			"width": 647.2858537946427,
@@ -424,7 +424,7 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"frameId": "IC_8thdJzIwtoNtRCQ1jf",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703599287591,
+			"updated": 1703644540137,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -719,7 +719,7 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"containerId": null,
 			"originalText": "//2800是指针的地址",
 			"lineHeight": 1.2,
-			"baseline": 9
+			"baseline": 8
 		},
 		{
 			"type": "image",
@@ -826,7 +826,7 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"containerId": null,
 			"originalText": "注意：",
 			"lineHeight": 1.2,
-			"baseline": 56
+			"baseline": 55
 		},
 		{
 			"type": "text",
@@ -900,7 +900,7 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"containerId": null,
 			"originalText": "原因在于，晚创建的对象可能依赖于早创建的对象",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "frame",
@@ -1149,7 +1149,7 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"containerId": null,
 			"originalText": "我们自己创建的构造函数中有new\n 同时析构函数中有delete\n而默认的复制构造函数中没有new\n当有复制构造函数被调用  就会多一次析构函数  \n总数3次new构造 一次复制构造    \n4次析构  多delete了一次  所以报错 ",
 			"lineHeight": 1.2,
-			"baseline": 140
+			"baseline": 139
 		},
 		{
 			"type": "text",
@@ -1186,7 +1186,7 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"containerId": null,
 			"originalText": "假设要创建一个类，其一个成员表示某人的姓。最简单的方法是使用字符数组成员来保存姓，但这种方法有一些缺陷。\n开始也许会使用一个14个字符的数组，然后发现数组太小，更保险的方法是，使用一个40个字符的数组。\n然而，如果创建包含2000个这种对象的数组，就会由于字符数组只有部分被使用而浪费大量的内存。",
 			"lineHeight": 1.2,
-			"baseline": 68
+			"baseline": 67
 		},
 		{
 			"type": "text",
@@ -1223,7 +1223,7 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"containerId": null,
 			"originalText": "为什么类中要使用new?",
 			"lineHeight": 1.2,
-			"baseline": 51
+			"baseline": 50
 		},
 		{
 			"type": "text",
@@ -1260,7 +1260,7 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"containerId": null,
 			"originalText": "为什么要重新编写默认复制构造函数?",
 			"lineHeight": 1.2,
-			"baseline": 51
+			"baseline": 50
 		},
 		{
 			"type": "image",
@@ -1330,7 +1330,7 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"containerId": null,
 			"originalText": "例1",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "text",
@@ -1367,7 +1367,7 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"containerId": null,
 			"originalText": "例2",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "image",
@@ -1437,7 +1437,7 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"containerId": null,
 			"originalText": "//默认构造函数",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "text",
@@ -1474,7 +1474,7 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"containerId": null,
 			"originalText": "//构造函数",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "text",
@@ -1511,7 +1511,7 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"containerId": null,
 			"originalText": "//构造函数",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "text",
@@ -1548,7 +1548,7 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"containerId": null,
 			"originalText": "//构造函数",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "text",
@@ -1585,7 +1585,7 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"containerId": null,
 			"originalText": "//复制构造函数",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "text",
@@ -1622,7 +1622,7 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"containerId": null,
 			"originalText": "//字符串转换为类 然后调用构造函数",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "text",
@@ -1659,7 +1659,7 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"containerId": null,
 			"originalText": "//默认赋值运算符",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "image",
@@ -1729,7 +1729,7 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"containerId": null,
 			"originalText": "//字符串转换为类 然后调用构造函数，还将调用默认赋值运算符",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "image",
@@ -1837,7 +1837,7 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"containerId": null,
 			"originalText": "//避免自己复制给自己，如果出现这种情况",
 			"lineHeight": 1.2,
-			"baseline": 13
+			"baseline": 12
 		},
 		{
 			"type": "text",
@@ -1874,7 +1874,7 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"containerId": null,
 			"originalText": "//复制构造函数",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "image",
@@ -2102,7 +2102,7 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"containerId": null,
 			"originalText": "案例",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "text",
@@ -2139,7 +2139,7 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"containerId": null,
 			"originalText": "//返回自己里的内容",
 			"lineHeight": 1.2,
-			"baseline": 13
+			"baseline": 12
 		},
 		{
 			"type": "text",
@@ -2176,7 +2176,7 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"containerId": null,
 			"originalText": "//把 = 前面的hobby释放掉",
 			"lineHeight": 1.2,
-			"baseline": 13
+			"baseline": 12
 		},
 		{
 			"type": "text",
@@ -2213,12 +2213,12 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"containerId": null,
 			"originalText": "//返回自己里更新过的内容",
 			"lineHeight": 1.2,
-			"baseline": 13
+			"baseline": 12
 		},
 		{
 			"type": "image",
-			"version": 381,
-			"versionNonce": 1853766128,
+			"version": 440,
+			"versionNonce": 2054095656,
 			"isDeleted": false,
 			"id": "eBW6mgKmDGcqScH2_RcKU",
 			"fillStyle": "solid",
@@ -2227,8 +2227,8 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1879.7601228330707,
-			"y": 220.03224316967703,
+			"x": 245.95398849505432,
+			"y": 1092.79417118307,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
 			"width": 574.333333333333,
@@ -2238,7 +2238,7 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"frameId": "IC_8thdJzIwtoNtRCQ1jf",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703599287591,
+			"updated": 1703644540137,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -2250,8 +2250,8 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 		},
 		{
 			"type": "text",
-			"version": 245,
-			"versionNonce": 142703600,
+			"version": 304,
+			"versionNonce": 1783898968,
 			"isDeleted": false,
 			"id": "lc2wOxWz",
 			"fillStyle": "solid",
@@ -2260,8 +2260,8 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1803.3950434679912,
-			"y": 165.47668761412172,
+			"x": 322.3190678601338,
+			"y": 1038.2386156275147,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 189.36328125,
@@ -2271,7 +2271,7 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"frameId": "IC_8thdJzIwtoNtRCQ1jf",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703599287591,
+			"updated": 1703644540137,
 			"link": null,
 			"locked": false,
 			"fontSize": 24.861111111111143,
@@ -2287,8 +2287,8 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 		},
 		{
 			"type": "text",
-			"version": 195,
-			"versionNonce": 1154252272,
+			"version": 254,
+			"versionNonce": 787766824,
 			"isDeleted": false,
 			"id": "OqpqsWQI",
 			"fillStyle": "solid",
@@ -2297,8 +2297,8 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1804.2283768013247,
-			"y": 128.53224316967726,
+			"x": 321.48573452680034,
+			"y": 1001.2941711830701,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 184.0625,
@@ -2308,7 +2308,7 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"frameId": "IC_8thdJzIwtoNtRCQ1jf",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703599287591,
+			"updated": 1703644540137,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2320,12 +2320,12 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"containerId": null,
 			"originalText": "类 = const char*",
 			"lineHeight": 1.2,
-			"baseline": 20
+			"baseline": 19
 		},
 		{
 			"type": "text",
-			"version": 178,
-			"versionNonce": 73875440,
+			"version": 237,
+			"versionNonce": 799406168,
 			"isDeleted": false,
 			"id": "A4CqrLMA",
 			"fillStyle": "solid",
@@ -2334,8 +2334,8 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1558.6807577537056,
-			"y": 131.73462412205754,
+			"x": 567.0333535744194,
+			"y": 1004.4965521354504,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 295.15625,
@@ -2345,7 +2345,7 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"frameId": "IC_8thdJzIwtoNtRCQ1jf",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703599287591,
+			"updated": 1703644540137,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2357,7 +2357,7 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"containerId": null,
 			"originalText": "因为默认的赋值运算符内没有new\n所以重写",
 			"lineHeight": 1.2,
-			"baseline": 44
+			"baseline": 43
 		},
 		{
 			"type": "image",
@@ -2405,11 +2405,11 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"opacity": 100,
 			"angle": 3.141592653589793,
 			"x": 2251.1395683049245,
-			"y": -1029.703524712889,
+			"y": -1029.7035247128888,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
 			"width": 333.301125329605,
-			"height": 1253.1426122053035,
+			"height": 1253.1426122053033,
 			"seed": 1347291669,
 			"groupIds": [],
 			"frameId": "izMu6mEBEFxELo1cV27-s",
@@ -2438,11 +2438,11 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"opacity": 100,
 			"angle": 0,
 			"x": 2622.3590716793756,
-			"y": -200.7877123356909,
+			"y": -200.78771233569094,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
 			"width": 306.1047762882482,
-			"height": 429.510796335164,
+			"height": 429.51079633516406,
 			"seed": 962217301,
 			"groupIds": [],
 			"frameId": "izMu6mEBEFxELo1cV27-s",
@@ -2527,28 +2527,28 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"name": "动态分配string案例，包含大部分重载案例"
 		},
 		{
-			"id": "_tOtU-oXLDlY-MTuqTIR6",
 			"type": "image",
-			"x": -554.6473012304067,
-			"y": 248.07560605678987,
-			"width": 432,
-			"height": 165.3986013986014,
-			"angle": 0,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
+			"version": 335,
+			"versionNonce": 155317008,
+			"isDeleted": false,
+			"id": "_tOtU-oXLDlY-MTuqTIR6",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -554.6473012304067,
+			"y": 248.07560605678987,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 432,
+			"height": 165.3986013986014,
+			"seed": 825518576,
 			"groupIds": [],
 			"frameId": "S1bmCRe20TKeXzw3tLzEO",
 			"roundness": null,
-			"seed": 825518576,
-			"version": 335,
-			"versionNonce": 155317008,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1703599275435,
 			"link": null,
 			"locked": false,
@@ -2560,28 +2560,28 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			]
 		},
 		{
-			"id": "S1bmCRe20TKeXzw3tLzEO",
 			"type": "frame",
-			"x": -640.3139678970737,
-			"y": -916.4424592112755,
-			"width": 1280,
-			"height": 1678.75,
-			"angle": 0,
-			"strokeColor": "#bbb",
-			"backgroundColor": "transparent",
+			"version": 146,
+			"versionNonce": 441878000,
+			"isDeleted": false,
+			"id": "S1bmCRe20TKeXzw3tLzEO",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": -640.3139678970737,
+			"y": -916.4424592112755,
+			"strokeColor": "#bbb",
+			"backgroundColor": "transparent",
+			"width": 1280,
+			"height": 1678.75,
+			"seed": 2017198352,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 2017198352,
-			"version": 146,
-			"versionNonce": 441878000,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1703599275435,
 			"link": null,
 			"locked": false,
@@ -2595,66 +2595,66 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 			"name": "复制构造函数"
 		},
 		{
-			"id": "1l0FIf5Z",
 			"type": "text",
-			"x": -2720.292905626014,
-			"y": 564.8417288229125,
-			"width": 1112.3076923076926,
-			"height": 37.076923076923094,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 108,
+			"versionNonce": 1464616,
+			"isDeleted": false,
+			"id": "1l0FIf5Z",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -594.5787942978891,
+			"y": 1437.6036568363054,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 1112.040283203125,
+			"height": 37.076923076923094,
+			"seed": 324636944,
 			"groupIds": [],
 			"frameId": "IC_8thdJzIwtoNtRCQ1jf",
 			"roundness": null,
-			"seed": 324636944,
-			"version": 49,
-			"versionNonce": 162705392,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1703599317039,
+			"boundElements": [],
+			"updated": 1703644540137,
 			"link": null,
 			"locked": false,
-			"text": "如果语句创建新的对象，则使用初始化；如果语句修改已有对象的值，则是赋值：",
-			"rawText": "如果语句创建新的对象，则使用初始化；如果语句修改已有对象的值，则是赋值：",
 			"fontSize": 30.897435897435916,
 			"fontFamily": 3,
+			"text": "如果语句创建新的对象，则使用初始化；如果语句修改已有对象的值，则是赋值：",
+			"rawText": "如果语句创建新的对象，则使用初始化；如果语句修改已有对象的值，则是赋值：",
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 29.999999999999993,
 			"containerId": null,
 			"originalText": "如果语句创建新的对象，则使用初始化；如果语句修改已有对象的值，则是赋值：",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 30
 		},
 		{
-			"id": "IC_8thdJzIwtoNtRCQ1jf",
 			"type": "frame",
-			"x": -2815.7306345637417,
-			"y": -64.19245921127492,
-			"width": 1840.0000000000002,
-			"height": 1115.8333333333335,
-			"angle": 0,
-			"strokeColor": "#bbb",
-			"backgroundColor": "transparent",
+			"version": 314,
+			"versionNonce": 1413337176,
+			"isDeleted": false,
+			"id": "IC_8thdJzIwtoNtRCQ1jf",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": -690.0165232356167,
+			"y": 849.7123956994392,
+			"strokeColor": "#bbb",
+			"backgroundColor": "transparent",
+			"width": 1840.0000000000002,
+			"height": 652.97604515439,
+			"seed": 407816464,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 407816464,
-			"version": 202,
-			"versionNonce": 94286320,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1703599287591,
+			"boundElements": [],
+			"updated": 1703644539696,
 			"link": null,
 			"locked": false,
 			"customData": {
@@ -2682,10 +2682,10 @@ ae832388763e2daacd1d300bcf9058273a621616: [[Pasted Image 20231226215840_857.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 3415.4705231473818,
-		"scrollY": 823.7727816665981,
+		"scrollX": 2102.127396980355,
+		"scrollY": 1565.1132584441557,
 		"zoom": {
-			"value": 0.44999999999999996
+			"value": 0.25
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
