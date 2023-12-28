@@ -6,7 +6,7 @@
       {
         "id": "e65077f0ca87d6e6",
         "type": "tabs",
-        "dimension": 20.65868263473054,
+        "dimension": 18.41317365269461,
         "children": [
           {
             "id": "2501c3a268985801",
@@ -64,31 +64,20 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
-        "id": "20f15777a855eb8c",
+        "id": "1720b8f7fb779419",
         "type": "tabs",
-        "dimension": 79.34131736526946,
+        "dimension": 81.58682634730539,
         "children": [
           {
-            "id": "7fccf4ce62a3fb08",
+            "id": "f323cc49af373a79",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "notion/时间与空间复杂度.md"
-              }
-            }
-          },
-          {
-            "id": "09c5ebde2a976308",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "notion/switch.md"
+                "file": "notion/栈的应用.md"
               }
             }
           }
@@ -177,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notion/时间与空间复杂度.md",
+                "file": "索引/C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notion/时间与空间复杂度.md",
+                "file": "索引/C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notion/时间与空间复杂度.md"
+                "file": "索引/C++.md"
               }
             }
           }
@@ -240,20 +229,27 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "7fccf4ce62a3fb08",
+  "active": "2501c3a268985801",
   "lastOpenFiles": [
+    "索引/数据结构与算法.md",
+    "notion/栈的应用.md",
+    "notion/时间与空间复杂度.md.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231228142724_160.png.baiduyun.uploading.cfg",
+    "notion/switch.md",
+    "notion/时间与空间复杂度.md",
+    "static/Pasted Image 20231228142717_430.png.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231228142724_160.png",
+    "static/Pasted Image 20231228142702_429.png.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231228142717_430.png",
     "static/Pasted Image 20231228142644_413.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231228142702_429.png",
-    "notion/时间与空间复杂度.md.baiduyun.uploading.cfg",
     "static/Pasted Image 20231228142644_413.png",
     "static/Pasted Image 20231228142624_695.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231228142619_404.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231228142624_695.png",
     "static/Pasted Image 20231228142619_404.png",
-    "索引/数据结构与算法.md",
     "notion/递归.md",
     "static/Pasted Image 20231228125238_987.png",
-    "notion/switch.md",
     "notion/switch_冲突文件_Admin_20231202085212.md",
     "notion/二叉树.md",
     "notion/malloc、free.md",
@@ -262,19 +258,12 @@
     "notion/基类与派生类.md",
     "Excalidraw/基类与派生类_冲突文件_Administrator_20231225193646.md",
     "索引/数据结构与算法.md.baiduyun.uploading.cfg",
-    "notion/时间与空间复杂度.md",
     "Excalidraw/时间与空间复杂度.md.baiduyun.uploading.cfg",
     "notion/递归.md.baiduyun.uploading.cfg",
-    "static/Pasted Image 20231228142055_370.png.baiduyun.uploading.cfg",
-    "static/Pasted Image 20231228142040_370.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231228142055_370.png",
-    "static/Pasted Image 20231228142029_986.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231228142040_370.png",
     "static/Pasted Image 20231228142029_986.png",
     "notion/printf--scanf.md",
-    "notion/printf--scanf.md.baiduyun.uploading.cfg",
-    "static/Pasted Image 20231228135239_493.png",
-    "static/Pasted Image 20231228135052_441.png",
     "索引/C语言.md",
     "conflict-files-obsidian-git.md",
     "notion/new-delete-动态数组-指针算数.md",
