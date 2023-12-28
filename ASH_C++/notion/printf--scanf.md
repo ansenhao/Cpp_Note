@@ -50,9 +50,13 @@ getchar() ^4jKRshI4
 
 如果0标志和精度说明符同时出现，那么0标志就会被忽略。 ^OoynzIat
 
-小数点之后是有效显示位 ^famw54IN
+例：开头加0 ^famw54IN
 
 加0  空白位置会被0填充 ^YOuxU8Xw
+
+小数点之后是有效显示位 ^QR2JMpl1
+
+例：有效位 ^ods314Ul
 
 
 # Embedded files
@@ -75,7 +79,6 @@ c93da1012229254c2b2b410863f155af97668e86: [[Pasted Image 20231228124637_227.png]
 105986126131f35dfb4cff5e9b8c2b4bd9fe5467: [[Pasted Image 20231228124652_229.png]]
 dbf891b84c1c597474c16c4672310beb2f127468: [[Pasted Image 20231228124722_231.png]]
 0518487a51c17d01d482c38b02df026bff0bfe1a: [[Pasted Image 20231228124755_589.png]]
-18356bc2935cf9ac4ce72669609830ba13a25609: [[Pasted Image 20231228124833_593.png]]
 5933fd6cc29ae45611b9c0751dd9bc35a2472ff4: [[Pasted Image 20231228124852_238.png]]
 
 %%
@@ -1104,7 +1107,7 @@ dbf891b84c1c597474c16c4672310beb2f127468: [[Pasted Image 20231228124722_231.png]
 			"lineHeight": 1.2
 		},
 		{
-			"id": "famw54IN",
+			"id": "QR2JMpl1",
 			"type": "text",
 			"x": 931.3338655251113,
 			"y": -398.930523522636,
@@ -1121,12 +1124,12 @@ dbf891b84c1c597474c16c4672310beb2f127468: [[Pasted Image 20231228124722_231.png]
 			"groupIds": [],
 			"frameId": "N1F18AsTZ3SPcxAVsiHbZ",
 			"roundness": null,
-			"seed": 323147261,
-			"version": 326,
-			"versionNonce": 1298457331,
+			"seed": 1231891539,
+			"version": 328,
+			"versionNonce": 814265949,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1703738900794,
+			"updated": 1703738993280,
 			"link": null,
 			"locked": false,
 			"text": "小数点之后是有效显示位",
@@ -1438,39 +1441,6 @@ dbf891b84c1c597474c16c4672310beb2f127468: [[Pasted Image 20231228124722_231.png]
 			]
 		},
 		{
-			"id": "E43icrEty_7QVjnqmI3_h",
-			"type": "image",
-			"x": 571.8066040280596,
-			"y": -162.3023657386001,
-			"width": 214.4975181962379,
-			"height": 23.50657733657402,
-			"angle": 0,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": "N1F18AsTZ3SPcxAVsiHbZ",
-			"roundness": null,
-			"seed": 1058139325,
-			"version": 138,
-			"versionNonce": 1478473373,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1703738926854,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "18356bc2935cf9ac4ce72669609830ba13a25609",
-			"scale": [
-				1,
-				1
-			]
-		},
-		{
 			"id": "leA_afYaiwk2BuCW3N6Ku",
 			"type": "image",
 			"x": 965.8482465813137,
@@ -1574,6 +1544,113 @@ dbf891b84c1c597474c16c4672310beb2f127468: [[Pasted Image 20231228124722_231.png]
 			"containerId": null,
 			"originalText": "精度说明与有效位.",
 			"lineHeight": 1.2
+		},
+		{
+			"id": "ods314Ul",
+			"type": "text",
+			"x": 710.8823748676772,
+			"y": -277.94053639760455,
+			"width": 61.09992980957031,
+			"height": 14.674002442572949,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": "N1F18AsTZ3SPcxAVsiHbZ",
+			"roundness": null,
+			"seed": 245796435,
+			"version": 401,
+			"versionNonce": 2140042333,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1703739005189,
+			"link": null,
+			"locked": false,
+			"text": "例：有效位",
+			"rawText": "例：有效位",
+			"fontSize": 12.228335368810791,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 11,
+			"containerId": null,
+			"originalText": "例：有效位",
+			"lineHeight": 1.2
+		},
+		{
+			"id": "famw54IN",
+			"type": "text",
+			"x": 714.3268770547767,
+			"y": -194.8406564152208,
+			"width": 68.26008605957031,
+			"height": 14.674002442572949,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": "N1F18AsTZ3SPcxAVsiHbZ",
+			"roundness": null,
+			"seed": 323147261,
+			"version": 443,
+			"versionNonce": 809757085,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1703739013498,
+			"link": null,
+			"locked": false,
+			"text": "例：开头加0",
+			"rawText": "例：开头加0",
+			"fontSize": 12.228335368810791,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 11,
+			"containerId": null,
+			"originalText": "例：开头加0",
+			"lineHeight": 1.2
+		},
+		{
+			"id": "E43icrEty_7QVjnqmI3_h",
+			"type": "image",
+			"x": 631.2251865508774,
+			"y": -102.45322044239475,
+			"width": 214.4975181962379,
+			"height": 23.50657733657402,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": "N1F18AsTZ3SPcxAVsiHbZ",
+			"roundness": null,
+			"seed": 1058139325,
+			"version": 167,
+			"versionNonce": 1952484573,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1703738991217,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "18356bc2935cf9ac4ce72669609830ba13a25609",
+			"scale": [
+				1,
+				1
+			]
 		},
 		{
 			"id": "OADvhRcx1682FrQDtsfPT",
@@ -1783,7 +1860,7 @@ dbf891b84c1c597474c16c4672310beb2f127468: [[Pasted Image 20231228124722_231.png]
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": -414.14753520768534,
-		"scrollY": 387.4750183636446,
+		"scrollY": 454.7514782627437,
 		"zoom": {
 			"value": 1.8580050167246376
 		},
