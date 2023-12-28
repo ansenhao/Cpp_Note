@@ -6,7 +6,7 @@
       {
         "id": "e65077f0ca87d6e6",
         "type": "tabs",
-        "dimension": 18.41317365269461,
+        "dimension": 18.976545842217483,
         "children": [
           {
             "id": "2501c3a268985801",
@@ -64,13 +64,12 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "1720b8f7fb779419",
         "type": "tabs",
-        "dimension": 81.58682634730539,
+        "dimension": 81.02345415778251,
         "children": [
           {
             "id": "07dac15ae5088112",
@@ -81,8 +80,19 @@
                 "file": "notion/二叉树.md"
               }
             }
+          },
+          {
+            "id": "01362dfd8d269106",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-12-28 23.45.00.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notion/二叉树.md",
+                "file": "Excalidraw/Drawing 2023-12-28 23.45.00.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notion/二叉树.md",
+                "file": "Excalidraw/Drawing 2023-12-28 23.45.00.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notion/二叉树.md"
+                "file": "Excalidraw/Drawing 2023-12-28 23.45.00.excalidraw.md"
               }
             }
           }
@@ -230,8 +240,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "07dac15ae5088112",
+  "active": "01362dfd8d269106",
   "lastOpenFiles": [
+    "索引/C++.md",
+    "Excalidraw/Drawing 2023-12-28 23.45.00.excalidraw.md",
+    "notion/二叉树.md",
     "notion/二叉树.md.baiduyun.uploading.cfg",
     "static/Pasted Image 20231228172823_108.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231228172823_108.png",
@@ -250,17 +263,14 @@
     "static/Pasted Image 20231228172510_885.png",
     "static/Pasted Image 20231228172502_876.png",
     "索引/数据结构与算法.md",
-    "索引/C++.md",
     "notion/栈的应用.md",
     "notion/时间与空间复杂度.md.baiduyun.uploading.cfg",
-    "static/Pasted Image 20231228142724_160.png.baiduyun.uploading.cfg",
     "notion/switch.md",
     "notion/时间与空间复杂度.md",
     "static/Pasted Image 20231228142724_160.png",
     "static/Pasted Image 20231228142717_430.png",
     "notion/递归.md",
     "notion/switch_冲突文件_Admin_20231202085212.md",
-    "notion/二叉树.md",
     "notion/malloc、free.md",
     "Excalidraw/二叉树_冲突文件_Admin_20231227091641.md",
     "notion/基类与派生类.md",
