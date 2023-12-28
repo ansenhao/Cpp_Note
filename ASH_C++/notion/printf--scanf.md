@@ -52,6 +52,8 @@ getchar() ^4jKRshI4
 
 小数点之后是有效显示位 ^famw54IN
 
+加0  空白位置会被0填充 ^YOuxU8Xw
+
 
 # Embedded files
 b4ee4f0e22701fa2e396f0b424f00756208155ce: [[Pasted Image 20231218092042_643.png]]
@@ -1058,10 +1060,10 @@ bf92f25510c85afca672de51ad0d161353b7765c: [[Pasted Image 20231228111149_084.png]
 		{
 			"id": "OoynzIat",
 			"type": "text",
-			"x": 1002.890759806179,
-			"y": 72.99009600523426,
-			"width": 267.10768153974294,
-			"height": 12.247086532687904,
+			"x": 1005.1040809438146,
+			"y": 68.12911103255522,
+			"width": 166.24305497410586,
+			"height": 7.622368132544069,
 			"angle": 0,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
@@ -1074,20 +1076,20 @@ bf92f25510c85afca672de51ad0d161353b7765c: [[Pasted Image 20231228111149_084.png]
 			"frameId": "N1F18AsTZ3SPcxAVsiHbZ",
 			"roundness": null,
 			"seed": 1346488499,
-			"version": 248,
-			"versionNonce": 1331551187,
+			"version": 377,
+			"versionNonce": 1410074429,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1703738436115,
+			"updated": 1703738606377,
 			"link": null,
 			"locked": false,
 			"text": "如果0标志和精度说明符同时出现，那么0标志就会被忽略。",
 			"rawText": "如果0标志和精度说明符同时出现，那么0标志就会被忽略。",
-			"fontSize": 10.205905443906595,
+			"fontSize": 6.351973443786732,
 			"fontFamily": 3,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 9.999999999999991,
+			"baseline": 5.99999999999999,
 			"containerId": null,
 			"originalText": "如果0标志和精度说明符同时出现，那么0标志就会被忽略。",
 			"lineHeight": 1.2
@@ -1127,6 +1129,43 @@ bf92f25510c85afca672de51ad0d161353b7765c: [[Pasted Image 20231228111149_084.png]
 			"baseline": 11.999999999999998,
 			"containerId": null,
 			"originalText": "小数点之后是有效显示位",
+			"lineHeight": 1.2
+		},
+		{
+			"id": "YOuxU8Xw",
+			"type": "text",
+			"x": 917.2469351702902,
+			"y": 68.344417755747,
+			"width": 70.99331317070308,
+			"height": 7.510036434586778,
+			"angle": 0,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": "N1F18AsTZ3SPcxAVsiHbZ",
+			"roundness": null,
+			"seed": 235694781,
+			"version": 73,
+			"versionNonce": 846249373,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1703738608061,
+			"link": null,
+			"locked": false,
+			"text": "加0  空白位置会被0填充",
+			"rawText": "加0  空白位置会被0填充",
+			"fontSize": 6.2583636954889785,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 6.0000000000000036,
+			"containerId": null,
+			"originalText": "加0  空白位置会被0填充",
 			"lineHeight": 1.2
 		},
 		{
@@ -1337,7 +1376,7 @@ bf92f25510c85afca672de51ad0d161353b7765c: [[Pasted Image 20231228111149_084.png]
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemStrokeColor": "#1971c2",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
@@ -1349,10 +1388,10 @@ bf92f25510c85afca672de51ad0d161353b7765c: [[Pasted Image 20231228111149_084.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -702.7841699316995,
-		"scrollY": 154.45614685724456,
+		"scrollX": -647.1415219798023,
+		"scrollY": 148.9967794696855,
 		"zoom": {
-			"value": 2.8729085292113403
+			"value": 2.5301233927218783
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
