@@ -44,7 +44,7 @@ getchar() ^4jKRshI4
 右对齐
 左对齐 ^1EFSZe6h
 
-正负号：左右对齐 ^voM3vmcn
+精度说明与有效位. ^voM3vmcn
 
 正负号：左右对齐 ^VQy8v7xf
 
@@ -1056,12 +1056,12 @@ bf92f25510c85afca672de51ad0d161353b7765c: [[Pasted Image 20231228111149_084.png]
 		{
 			"id": "OoynzIat",
 			"type": "text",
-			"x": 1011.2446630912893,
-			"y": 67.42082714849407,
+			"x": 1002.890759806179,
+			"y": 72.99009600523426,
 			"width": 267.10768153974294,
 			"height": 12.247086532687904,
 			"angle": 0,
-			"strokeColor": "#1e1e1e",
+			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -1072,11 +1072,11 @@ bf92f25510c85afca672de51ad0d161353b7765c: [[Pasted Image 20231228111149_084.png]
 			"frameId": "N1F18AsTZ3SPcxAVsiHbZ",
 			"roundness": null,
 			"seed": 1346488499,
-			"version": 200,
-			"versionNonce": 698136211,
+			"version": 248,
+			"versionNonce": 1331551187,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1703738385652,
+			"updated": 1703738436115,
 			"link": null,
 			"locked": false,
 			"text": "如果0标志和精度说明符同时出现，那么0标志就会被忽略。",
@@ -1130,8 +1130,8 @@ bf92f25510c85afca672de51ad0d161353b7765c: [[Pasted Image 20231228111149_084.png]
 			"type": "text",
 			"x": 696.000411652418,
 			"y": -38.335409838099196,
-			"width": 209.64197957919512,
-			"height": 31.446296936879257,
+			"width": 224.9515380859375,
+			"height": 31.446296936879268,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -1144,22 +1144,22 @@ bf92f25510c85afca672de51ad0d161353b7765c: [[Pasted Image 20231228111149_084.png]
 			"frameId": "N1F18AsTZ3SPcxAVsiHbZ",
 			"roundness": null,
 			"seed": 1299770557,
-			"version": 55,
-			"versionNonce": 506329651,
+			"version": 67,
+			"versionNonce": 96354621,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1703738350158,
+			"updated": 1703738473859,
 			"link": null,
 			"locked": false,
-			"text": "正负号：左右对齐",
-			"rawText": "正负号：左右对齐",
+			"text": "精度说明与有效位.",
+			"rawText": "精度说明与有效位.",
 			"fontSize": 26.20524744739939,
 			"fontFamily": 3,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 23.99999999999999,
+			"baseline": 25,
 			"containerId": null,
-			"originalText": "正负号：左右对齐",
+			"originalText": "精度说明与有效位.",
 			"lineHeight": 1.2
 		},
 		{
@@ -1298,7 +1298,7 @@ bf92f25510c85afca672de51ad0d161353b7765c: [[Pasted Image 20231228111149_084.png]
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemStrokeColor": "#1971c2",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
@@ -1310,8 +1310,8 @@ bf92f25510c85afca672de51ad0d161353b7765c: [[Pasted Image 20231228111149_084.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -741.2121335412368,
-		"scrollY": 127.1667209611877,
+		"scrollX": -554.0847084527962,
+		"scrollY": 145.26684474559332,
 		"zoom": {
 			"value": 2.8729085292113403
 		},
