@@ -65,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "20f15777a855eb8c",
@@ -78,7 +78,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/二叉树.md"
+                "file": "notion/printf--scanf.md"
               }
             }
           }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/二叉树.md",
+                "file": "notion/printf--scanf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/二叉树.md",
+                "file": "notion/printf--scanf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/二叉树.md"
+                "file": "notion/printf--scanf.md"
               }
             }
           }
@@ -232,9 +232,10 @@
   },
   "active": "7fccf4ce62a3fb08",
   "lastOpenFiles": [
+    "索引/C语言.md",
+    "Excalidraw/二叉树.md",
     "Excalidraw/二叉树.md.baiduyun.uploading.cfg",
     "conflict-files-obsidian-git.md",
-    "Excalidraw/二叉树.md",
     "static/Pasted Image 20231227235031_276.png",
     "static/Pasted Image 20231227203533_386.png",
     "static/Pasted Image 20231228091345_848.png.baiduyun.uploading.cfg",
@@ -274,7 +275,6 @@
     "notion/队列与循环队列.md",
     "索引/python大纲.md",
     "notion/printf--scanf.md",
-    "索引/C语言.md",
     "Excalidraw/malloc、free.md",
     "notion/栈的应用.md",
     "未命名.canvas",
