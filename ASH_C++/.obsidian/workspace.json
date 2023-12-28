@@ -64,8 +64,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "20f15777a855eb8c",
@@ -91,8 +90,19 @@
                 "file": "static/Pasted Image 20231228125238_987.png"
               }
             }
+          },
+          {
+            "id": "09c5ebde2a976308",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/二叉树_冲突文件_Admin_20231227091641.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5,
-    "collapsed": true
+    "width": 201.5
   },
   "right": {
     "id": "1e2f083c69547fa6",
@@ -177,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "索引/数据结构与算法.md",
+                "file": "Excalidraw/二叉树_冲突文件_Admin_20231227091641.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "索引/数据结构与算法.md",
+                "file": "Excalidraw/二叉树_冲突文件_Admin_20231227091641.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "索引/数据结构与算法.md"
+                "file": "Excalidraw/二叉树_冲突文件_Admin_20231227091641.md"
               }
             }
           }
@@ -240,8 +249,17 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "a0ff756d6c103630",
+  "active": "c401be002ff184cc",
   "lastOpenFiles": [
+    "Excalidraw/二叉树.md",
+    "Excalidraw/二叉树_冲突文件_Admin_20231227091641.md",
+    "索引/C++.md",
+    "Excalidraw/基类与派生类.md",
+    "Excalidraw/基类与派生类_冲突文件_Administrator_20231225193646.md",
+    "索引/数据结构与算法.md.baiduyun.uploading.cfg",
+    "Excalidraw/时间与空间复杂度.md",
+    "Excalidraw/时间与空间复杂度.md.baiduyun.uploading.cfg",
+    "索引/数据结构与算法.md",
     "notion/递归.md.baiduyun.uploading.cfg",
     "notion/递归.md",
     "static/Pasted Image 20231228142055_370.png.baiduyun.uploading.cfg",
@@ -250,7 +268,6 @@
     "static/Pasted Image 20231228142029_986.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231228142040_370.png",
     "static/Pasted Image 20231228142029_986.png",
-    "索引/C++.md",
     "notion/printf--scanf.md",
     "notion/printf--scanf.md.baiduyun.uploading.cfg",
     "static/Pasted Image 20231228135239_493.png.baiduyun.uploading.cfg",
@@ -259,34 +276,26 @@
     "static/Pasted Image 20231228135052_441.png",
     "static/Pasted Image 20231228130016_054.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231228130016_054.png",
-    "static/Pasted Image 20231228125947_346.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231228125947_346.png",
-    "static/Pasted Image 20231228125238_987.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231228125238_987.png",
     "static/Pasted Image 20231228125230_269.png",
     "static/Pasted Image 20231228125215_262.png",
     "索引/C语言.md",
-    "Excalidraw/二叉树.md",
     "conflict-files-obsidian-git.md",
-    "索引/数据结构与算法.md",
     "notion/new-delete-动态数组-指针算数.md",
     "notion/pointers-指针.md",
     "notion/默认参数.md",
     "notion/虚函数.md",
     "notion/strcpy(),strcat()字符串的修改.md",
     "notion/类中new，复制构造函数、重载  =.md",
-    "Excalidraw/基类与派生类.md",
     "notion/类的类型转换.md",
     "notion/友元函数.md",
     "notion/operator-重载运算符.md",
     "notion/构造函数.md",
-    "Excalidraw/二叉树_冲突文件_Admin_20231227091641.md",
     "notion/多继承，菱形继承，虚继承.md",
     "notion/访问修饰符public-protected-private.md",
     "notion/队列与循环队列.md",
     "索引/python大纲.md",
-    "Excalidraw/malloc、free.md",
-    "notion/栈的应用.md",
     "未命名.canvas",
     "画板案例.canvas",
     "索引/大纲导图.canvas",
