@@ -64,7 +64,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "20f15777a855eb8c",
@@ -176,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notion/递归.md",
+                "file": "索引/数据结构与算法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notion/递归.md",
+                "file": "索引/数据结构与算法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notion/递归.md"
+                "file": "索引/数据结构与算法.md"
               }
             }
           }
@@ -239,9 +240,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "7fccf4ce62a3fb08",
+  "active": "a0ff756d6c103630",
   "lastOpenFiles": [
     "notion/递归.md.baiduyun.uploading.cfg",
+    "notion/递归.md",
     "static/Pasted Image 20231228142055_370.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231228142040_370.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231228142055_370.png",
@@ -261,7 +263,6 @@
     "static/Pasted Image 20231228125947_346.png",
     "static/Pasted Image 20231228125238_987.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231228125238_987.png",
-    "static/Pasted Image 20231228125230_269.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231228125230_269.png",
     "static/Pasted Image 20231228125215_262.png",
     "索引/C语言.md",
@@ -280,7 +281,6 @@
     "notion/operator-重载运算符.md",
     "notion/构造函数.md",
     "Excalidraw/二叉树_冲突文件_Admin_20231227091641.md",
-    "notion/递归.md",
     "notion/多继承，菱形继承，虚继承.md",
     "notion/访问修饰符public-protected-private.md",
     "notion/队列与循环队列.md",
