@@ -26,7 +26,7 @@ cout>>"Hello World">>endl; ^WLl3tfXc
 %d int
 %c char
 %f float,double  %e 浮点的指数计数法
- ^GLtVWLFn
+%s 字符串 ^GLtVWLFn
 
 printf 可以从缓存区输出到屏幕需要满足4个条件之一：
 1.缓冲区满
@@ -492,8 +492,8 @@ e3c125f40744de40ed9e12a718b0975fe6eca48e: [[Pasted Image 20231228125947_346.png]
 		},
 		{
 			"type": "text",
-			"version": 575,
-			"versionNonce": 868281789,
+			"version": 579,
+			"versionNonce": 1842787347,
 			"isDeleted": false,
 			"id": "GLtVWLFn",
 			"fillStyle": "solid",
@@ -513,17 +513,17 @@ e3c125f40744de40ed9e12a718b0975fe6eca48e: [[Pasted Image 20231228125947_346.png]
 			"frameId": "kACAnRPQXt7ls2ifQSuF6",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703742206063,
+			"updated": 1703742283864,
 			"link": null,
 			"locked": false,
 			"fontSize": 43.13593337109607,
 			"fontFamily": 3,
-			"text": "%d int\n%c char\n%f float,double  %e 浮点的指数计数法\n",
-			"rawText": "%d int\n%c char\n%f float,double  %e 浮点的指数计数法\n",
+			"text": "%d int\n%c char\n%f float,double  %e 浮点的指数计数法\n%s 字符串",
+			"rawText": "%d int\n%c char\n%f float,double  %e 浮点的指数计数法\n%s 字符串",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "%d int\n%c char\n%f float,double  %e 浮点的指数计数法\n",
+			"originalText": "%d int\n%c char\n%f float,double  %e 浮点的指数计数法\n%s 字符串",
 			"lineHeight": 1.2,
 			"baseline": 196
 		},
@@ -2317,10 +2317,10 @@ e3c125f40744de40ed9e12a718b0975fe6eca48e: [[Pasted Image 20231228125947_346.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1353.6134109300197,
-		"scrollY": 1403.1418715531845,
+		"scrollX": 963.3896643383945,
+		"scrollY": 980.9955452422282,
 		"zoom": {
-			"value": 0.4780035940266572
+			"value": 1.0280035940266576
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
