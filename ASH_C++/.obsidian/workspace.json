@@ -72,13 +72,11 @@
         "dimension": 81.58682634730539,
         "children": [
           {
-            "id": "f323cc49af373a79",
+            "id": "07dac15ae5088112",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "notion/栈的应用.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -166,7 +164,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "索引/C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +180,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "索引/C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,9 +201,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "索引/C++.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -229,8 +223,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2501c3a268985801",
+  "active": "07dac15ae5088112",
   "lastOpenFiles": [
+    "索引/C++.md",
     "索引/数据结构与算法.md",
     "notion/栈的应用.md",
     "notion/时间与空间复杂度.md.baiduyun.uploading.cfg",
@@ -254,7 +249,6 @@
     "notion/二叉树.md",
     "notion/malloc、free.md",
     "Excalidraw/二叉树_冲突文件_Admin_20231227091641.md",
-    "索引/C++.md",
     "notion/基类与派生类.md",
     "Excalidraw/基类与派生类_冲突文件_Administrator_20231225193646.md",
     "索引/数据结构与算法.md.baiduyun.uploading.cfg",
