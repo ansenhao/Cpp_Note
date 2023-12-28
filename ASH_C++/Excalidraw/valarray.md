@@ -25,6 +25,7 @@ vector 和 array 类
 # Embedded files
 89c095d05f5461760980aec6a0e04859dd4b8455: [[Pasted Image 20231228235602_961.png]]
 76c58eedb3f4b02d3b851559ec806d3fee66ebac: [[Pasted Image 20231228235647_965.png]]
+ef4606eb2f5d4820ef2cdbac7802d47cf9c54b09: [[Pasted Image 20231228235717_974.png]]
 
 %%
 # Drawing
@@ -317,6 +318,39 @@ vector 和 array 类
 			"locked": false,
 			"status": "pending",
 			"fileId": "76c58eedb3f4b02d3b851559ec806d3fee66ebac",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "Zor6aF8mFkLQ882kg6SkS",
+			"type": "image",
+			"x": -521.7857142857147,
+			"y": 286.6495535714289,
+			"width": 678,
+			"height": 254,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 744145053,
+			"version": 36,
+			"versionNonce": 1193341075,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1703779033154,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "ef4606eb2f5d4820ef2cdbac7802d47cf9c54b09",
 			"scale": [
 				1,
 				1
