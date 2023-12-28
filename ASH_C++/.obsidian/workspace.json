@@ -64,8 +64,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "20f15777a855eb8c",
@@ -78,7 +77,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "notion/printf--scanf.md"
+                "file": "notion/递归.md"
               }
             }
           },
@@ -177,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notion/printf--scanf.md",
+                "file": "notion/递归.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notion/printf--scanf.md",
+                "file": "notion/递归.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notion/printf--scanf.md"
+                "file": "notion/递归.md"
               }
             }
           }
@@ -242,6 +241,14 @@
   },
   "active": "7fccf4ce62a3fb08",
   "lastOpenFiles": [
+    "static/Pasted Image 20231228142040_370.png.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231228142055_370.png",
+    "notion/递归.md.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231228142029_986.png.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231228142040_370.png",
+    "static/Pasted Image 20231228142029_986.png",
+    "索引/C++.md",
+    "notion/printf--scanf.md",
     "notion/printf--scanf.md.baiduyun.uploading.cfg",
     "static/Pasted Image 20231228135239_493.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231228135239_493.png",
@@ -254,22 +261,14 @@
     "static/Pasted Image 20231228125238_987.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231228125238_987.png",
     "static/Pasted Image 20231228125230_269.png.baiduyun.uploading.cfg",
-    "notion/printf--scanf.md",
     "static/Pasted Image 20231228125230_269.png",
     "static/Pasted Image 20231228125215_262.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231228125215_262.png",
-    "static/Pasted Image 20231228124852_238.png.baiduyun.uploading.cfg",
-    "static/Pasted Image 20231228124852_238.png",
-    "static/Pasted Image 20231228124833_593.png.baiduyun.uploading.cfg",
-    "static/Pasted Image 20231228124833_593.png",
-    "static/Pasted Image 20231228124755_589.png.baiduyun.uploading.cfg",
-    "static/Pasted Image 20231228124755_589.png",
     "索引/C语言.md",
     "Excalidraw/二叉树.md",
     "conflict-files-obsidian-git.md",
     "索引/数据结构与算法.md",
     "notion/new-delete-动态数组-指针算数.md",
-    "索引/C++.md",
     "notion/pointers-指针.md",
     "notion/默认参数.md",
     "notion/虚函数.md",
