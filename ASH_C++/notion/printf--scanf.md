@@ -48,6 +48,8 @@ getchar() ^4jKRshI4
 
 正负号：左右对齐 ^VQy8v7xf
 
+如果0标志和精度说明符同时出现，那么0标志就会被忽略。 ^OoynzIat
+
 
 # Embedded files
 b4ee4f0e22701fa2e396f0b424f00756208155ce: [[Pasted Image 20231218092042_643.png]]
@@ -1052,6 +1054,43 @@ bf92f25510c85afca672de51ad0d161353b7765c: [[Pasted Image 20231228111149_084.png]
 			]
 		},
 		{
+			"id": "OoynzIat",
+			"type": "text",
+			"x": 1011.2446630912893,
+			"y": 67.42082714849407,
+			"width": 267.10768153974294,
+			"height": 12.247086532687904,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": "N1F18AsTZ3SPcxAVsiHbZ",
+			"roundness": null,
+			"seed": 1346488499,
+			"version": 200,
+			"versionNonce": 698136211,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1703738385652,
+			"link": null,
+			"locked": false,
+			"text": "如果0标志和精度说明符同时出现，那么0标志就会被忽略。",
+			"rawText": "如果0标志和精度说明符同时出现，那么0标志就会被忽略。",
+			"fontSize": 10.205905443906595,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 9.999999999999991,
+			"containerId": null,
+			"originalText": "如果0标志和精度说明符同时出现，那么0标志就会被忽略。",
+			"lineHeight": 1.2
+		},
+		{
 			"id": "N1F18AsTZ3SPcxAVsiHbZ",
 			"type": "frame",
 			"x": 675.3523243215285,
@@ -1271,10 +1310,10 @@ bf92f25510c85afca672de51ad0d161353b7765c: [[Pasted Image 20231228111149_084.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -383.89337405053857,
-		"scrollY": 394.3390745047485,
+		"scrollX": -741.2121335412368,
+		"scrollY": 127.1667209611877,
 		"zoom": {
-			"value": 1.5109778856202112
+			"value": 2.8729085292113403
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
