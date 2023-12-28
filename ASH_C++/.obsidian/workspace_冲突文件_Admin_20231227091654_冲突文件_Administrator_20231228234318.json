@@ -1,0 +1,297 @@
+{
+  "main": {
+    "id": "72afe48b1932cafe",
+    "type": "split",
+    "children": [
+      {
+        "id": "e65077f0ca87d6e6",
+        "type": "tabs",
+        "dimension": 20.65868263473054,
+        "children": [
+          {
+            "id": "2501c3a268985801",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "索引/C++.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "591c611c09745fad",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "索引/C语言.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "a0ff756d6c103630",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "索引/数据结构与算法.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "ba5fe9e55718f5b5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "索引/python大纲.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "20f15777a855eb8c",
+        "type": "tabs",
+        "dimension": 79.34131736526946,
+        "children": [
+          {
+            "id": "7fccf4ce62a3fb08",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/二叉树.md"
+              }
+            }
+          },
+          {
+            "id": "8e1ee57f6fc90d06",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d0fe02662a54fb16",
+    "type": "split",
+    "children": [
+      {
+        "id": "db9d677330534b66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c401be002ff184cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6c5084905dde0689",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#excalidraw",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a43fbfb7db7fc922",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "a2ebffb6b43542b1",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
+          },
+          {
+            "id": "6cbad303bc6c0326",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 201.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "1e2f083c69547fa6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f19e60bf1c1d136a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad2701a3b6301d39",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/二叉树.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67563959f0f04aef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/二叉树.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "843eacdc6d47341c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d87b17873e0cfbd4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/二叉树.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:打开命令面板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "workspaces:管理工作区布局": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "7fccf4ce62a3fb08",
+  "lastOpenFiles": [
+    "static/Pasted Image 20231226221339_059.png",
+    "static/Pasted Image 20231226215725_837.png",
+    "static/Pasted Image 20231226222145_165.png",
+    "static/Pasted Image 20231226215608_822.png",
+    "static/Pasted Image 20231226215503_192.png",
+    "static/Pasted Image 20231226222246_181.png",
+    "static/Pasted Image 20231226215840_857.png",
+    "static/Pasted Image 20231226221626_083.png",
+    "static/Pasted Image 20231226215740_846.png",
+    "static/Pasted Image 20231226215449_784.png",
+    "static/Pasted Image 20231226222351_695.png",
+    "notion/虚函数(1).md.baiduyun.downloading.cfg",
+    "notion/虚函数(1).md.baiduyun.downloading",
+    "Excalidraw/二叉树(1).md.baiduyun.downloading.cfg",
+    "Excalidraw/二叉树(1).md.baiduyun.downloading",
+    "notion/类中new，复制构造函数、重载  =(1).md.baiduyun.downloading.cfg",
+    "notion/类中new，复制构造函数、重载  =(1).md.baiduyun.downloading",
+    "notion/构造函数(1).md.baiduyun.downloading.cfg",
+    "notion/构造函数(1).md.baiduyun.downloading",
+    "notion/operator-重载运算符(1).md.baiduyun.downloading.cfg",
+    "notion/operator-重载运算符(1).md.baiduyun.downloading",
+    "Excalidraw/二叉树_冲突文件_Admin_20231227091641.md",
+    "索引/数据结构与算法.md",
+    "notion/递归.md",
+    "索引/C++.md",
+    "Excalidraw/二叉树.md",
+    "Excalidraw/基类与派生类.md",
+    "notion/类中new，复制构造函数、重载  =.md",
+    "notion/虚函数.md",
+    "notion/多继承，菱形继承，虚继承.md",
+    "notion/访问修饰符public-protected-private.md",
+    "notion/构造函数.md",
+    "notion/队列与循环队列.md",
+    "索引/python大纲.md",
+    "notion/printf--scanf.md",
+    "索引/C语言.md",
+    "Excalidraw/malloc、free.md",
+    "notion/栈的应用.md",
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/双链表.md",
+    "notion/继承-父子类.md",
+    "notion/附：lunux常用指令.md",
+    "notion/operator-重载运算符.md",
+    "notion/基类指针转化为派生类指针.md",
+    "notion/类的类型转换.md",
+    "Excalidraw/循环链表.md",
+    "未命名.canvas",
+    "画板案例.canvas",
+    "索引/大纲导图.canvas",
+    "未命名 1.canvas",
+    "static/未命名.canvas"
+  ]
+}
