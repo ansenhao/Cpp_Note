@@ -13,9 +13,13 @@ vector 和 array 类
 
 构造函数案例： ^PmY00ytm
 
-//八个槽的int数组 ^ZPbVBoWb
+//将gpa前四个值填充到v4中 ^ZPbVBoWb
 
 //空数组 ^ERIP48hv
+
+//八个槽的int数组 ^hYf0s6wD
+
+//八个槽的int数组，里面的值全部设置为10 ^wo7eTggq
 
 
 # Embedded files
@@ -174,7 +178,7 @@ f92001bef69031dc1e6503df05e5f0388c03f582: [[Pasted Image 20231228235258_882.png]
 			"lineHeight": 1.2
 		},
 		{
-			"id": "ZPbVBoWb",
+			"id": "hYf0s6wD",
 			"type": "text",
 			"x": -108.5,
 			"y": 53.578125,
@@ -191,12 +195,12 @@ f92001bef69031dc1e6503df05e5f0388c03f582: [[Pasted Image 20231228235258_882.png]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 143616765,
-			"version": 112,
-			"versionNonce": 588523517,
+			"seed": 2038808957,
+			"version": 114,
+			"versionNonce": 466542803,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1703778838577,
+			"updated": 1703778841111,
 			"link": null,
 			"locked": false,
 			"text": "//八个槽的int数组",
@@ -208,6 +212,80 @@ f92001bef69031dc1e6503df05e5f0388c03f582: [[Pasted Image 20231228235258_882.png]
 			"baseline": 20,
 			"containerId": null,
 			"originalText": "//八个槽的int数组",
+			"lineHeight": 1.2
+		},
+		{
+			"id": "wo7eTggq",
+			"type": "text",
+			"x": -107,
+			"y": 91.078125,
+			"width": 402.03125,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 857914291,
+			"version": 159,
+			"versionNonce": 306072829,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1703778873244,
+			"link": null,
+			"locked": false,
+			"text": "//八个槽的int数组，里面的值全部设置为10",
+			"rawText": "//八个槽的int数组，里面的值全部设置为10",
+			"fontSize": 20,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 20,
+			"containerId": null,
+			"originalText": "//八个槽的int数组，里面的值全部设置为10",
+			"lineHeight": 1.2
+		},
+		{
+			"id": "ZPbVBoWb",
+			"type": "text",
+			"x": -34,
+			"y": 163.078125,
+			"width": 262.03125,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 143616765,
+			"version": 228,
+			"versionNonce": 344019037,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1703778900123,
+			"link": null,
+			"locked": false,
+			"text": "//将gpa前四个值填充到v4中",
+			"rawText": "//将gpa前四个值填充到v4中",
+			"fontSize": 20,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 20,
+			"containerId": null,
+			"originalText": "//将gpa前四个值填充到v4中",
 			"lineHeight": 1.2
 		}
 	],
