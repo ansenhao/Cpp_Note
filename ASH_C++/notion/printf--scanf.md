@@ -50,7 +50,7 @@ getchar() ^4jKRshI4
 
 如果0标志和精度说明符同时出现，那么0标志就会被忽略。 ^OoynzIat
 
-例：浮点的 . 有效位 ^famw54IN
+例：浮点默认小数点6位有效位 ^famw54IN
 
 加0  空白位置会被0填充 ^YOuxU8Xw
 
@@ -64,7 +64,9 @@ getchar() ^4jKRshI4
 
 两位有效位 ^JTn5Wpt3
 
-这里 ^BdY24aJ2
+这里精度说明不够，电脑自动给提升到了7位 ^BdY24aJ2
+
+例：浮点的 . 有效位 ^3SaXYPxh
 
 
 # Embedded files
@@ -1491,8 +1493,8 @@ ed53a57888e81689b2ac2b8be26dfc5ac776f75b: [[Pasted Image 20231228125230_269.png]
 		{
 			"id": "yLXd-5gjd8AwQXFWeO4dw",
 			"type": "image",
-			"x": 880.9004501270148,
-			"y": -10.138189833318904,
+			"x": 912.0497795964469,
+			"y": 1.707331709814298,
 			"width": 175.62243570817785,
 			"height": 19.513603967575317,
 			"angle": 0,
@@ -1507,11 +1509,11 @@ ed53a57888e81689b2ac2b8be26dfc5ac776f75b: [[Pasted Image 20231228125230_269.png]
 			"frameId": "N1F18AsTZ3SPcxAVsiHbZ",
 			"roundness": null,
 			"seed": 340678163,
-			"version": 179,
-			"versionNonce": 972308595,
+			"version": 218,
+			"versionNonce": 212482013,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1703739177408,
+			"updated": 1703739307494,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -1524,8 +1526,8 @@ ed53a57888e81689b2ac2b8be26dfc5ac776f75b: [[Pasted Image 20231228125230_269.png]
 		{
 			"id": "NBhPAae1v2MUrDIxcKZrR",
 			"type": "image",
-			"x": 946.3450532107353,
-			"y": 19.38414604217172,
+			"x": 977.4943826801674,
+			"y": 31.229667585304924,
 			"width": 113.87069067221917,
 			"height": 15.80023937557108,
 			"angle": 0,
@@ -1540,11 +1542,11 @@ ed53a57888e81689b2ac2b8be26dfc5ac776f75b: [[Pasted Image 20231228125230_269.png]
 			"frameId": "N1F18AsTZ3SPcxAVsiHbZ",
 			"roundness": null,
 			"seed": 135735859,
-			"version": 202,
-			"versionNonce": 1427749395,
+			"version": 241,
+			"versionNonce": 1840329789,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1703739177408,
+			"updated": 1703739307494,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -1642,10 +1644,10 @@ ed53a57888e81689b2ac2b8be26dfc5ac776f75b: [[Pasted Image 20231228125230_269.png]
 		{
 			"id": "BdY24aJ2",
 			"type": "text",
-			"x": 871.2564131310667,
-			"y": -50.02719084713851,
-			"width": 40,
-			"height": 24,
+			"x": 865.9917443278848,
+			"y": -52.65955872067735,
+			"width": 121.4650373684414,
+			"height": 7.441974367687515,
 			"angle": 0,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
@@ -1658,22 +1660,22 @@ ed53a57888e81689b2ac2b8be26dfc5ac776f75b: [[Pasted Image 20231228125230_269.png]
 			"frameId": "N1F18AsTZ3SPcxAVsiHbZ",
 			"roundness": null,
 			"seed": 1131781725,
-			"version": 2,
-			"versionNonce": 1345915795,
+			"version": 47,
+			"versionNonce": 709244477,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1703739259531,
+			"updated": 1703739300338,
 			"link": null,
 			"locked": false,
-			"text": "这里",
-			"rawText": "这里",
-			"fontSize": 20,
+			"text": "这里精度说明不够，电脑自动给提升到了7位",
+			"rawText": "这里精度说明不够，电脑自动给提升到了7位",
+			"fontSize": 6.201645306406261,
 			"fontFamily": 3,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 19,
+			"baseline": 6.000000000000002,
 			"containerId": null,
-			"originalText": "这里",
+			"originalText": "这里精度说明不够，电脑自动给提升到了7位",
 			"lineHeight": 1.2
 		},
 		{
@@ -1823,7 +1825,7 @@ ed53a57888e81689b2ac2b8be26dfc5ac776f75b: [[Pasted Image 20231228125230_269.png]
 			"lineHeight": 1.2
 		},
 		{
-			"id": "famw54IN",
+			"id": "3SaXYPxh",
 			"type": "text",
 			"x": 716.9260380783768,
 			"y": -100.75101546288482,
@@ -1840,12 +1842,12 @@ ed53a57888e81689b2ac2b8be26dfc5ac776f75b: [[Pasted Image 20231228125230_269.png]
 			"groupIds": [],
 			"frameId": "N1F18AsTZ3SPcxAVsiHbZ",
 			"roundness": null,
-			"seed": 323147261,
-			"version": 491,
-			"versionNonce": 1392109501,
+			"seed": 488255219,
+			"version": 493,
+			"versionNonce": 2082123197,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1703739203243,
+			"updated": 1703739309066,
 			"link": null,
 			"locked": false,
 			"text": "例：浮点的 . 有效位",
@@ -1894,6 +1896,43 @@ ed53a57888e81689b2ac2b8be26dfc5ac776f75b: [[Pasted Image 20231228125230_269.png]
 			"baseline": 10,
 			"containerId": null,
 			"originalText": "一位有效位",
+			"lineHeight": 1.2
+		},
+		{
+			"id": "famw54IN",
+			"type": "text",
+			"x": 730.9652441453895,
+			"y": -1.5995075420079843,
+			"width": 166.0199737548828,
+			"height": 14.674002442572949,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": "N1F18AsTZ3SPcxAVsiHbZ",
+			"roundness": null,
+			"seed": 323147261,
+			"version": 537,
+			"versionNonce": 188401299,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1703739325099,
+			"link": null,
+			"locked": false,
+			"text": "例：浮点默认小数点6位有效位",
+			"rawText": "例：浮点默认小数点6位有效位",
+			"fontSize": 12.228335368810791,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 11,
+			"containerId": null,
+			"originalText": "例：浮点默认小数点6位有效位",
 			"lineHeight": 1.2
 		},
 		{
