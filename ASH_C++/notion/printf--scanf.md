@@ -75,6 +75,8 @@ c93da1012229254c2b2b410863f155af97668e86: [[Pasted Image 20231228124637_227.png]
 105986126131f35dfb4cff5e9b8c2b4bd9fe5467: [[Pasted Image 20231228124652_229.png]]
 dbf891b84c1c597474c16c4672310beb2f127468: [[Pasted Image 20231228124722_231.png]]
 0518487a51c17d01d482c38b02df026bff0bfe1a: [[Pasted Image 20231228124755_589.png]]
+18356bc2935cf9ac4ce72669609830ba13a25609: [[Pasted Image 20231228124833_593.png]]
+5933fd6cc29ae45611b9c0751dd9bc35a2472ff4: [[Pasted Image 20231228124852_238.png]]
 
 %%
 # Drawing
@@ -1421,15 +1423,81 @@ dbf891b84c1c597474c16c4672310beb2f127468: [[Pasted Image 20231228124722_231.png]
 			"frameId": "N1F18AsTZ3SPcxAVsiHbZ",
 			"roundness": null,
 			"seed": 27038099,
-			"version": 185,
-			"versionNonce": 25162557,
+			"version": 187,
+			"versionNonce": 1050065107,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1703738900794,
+			"boundElements": [],
+			"updated": 1703738924954,
 			"link": null,
 			"locked": false,
 			"status": "pending",
 			"fileId": "0518487a51c17d01d482c38b02df026bff0bfe1a",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "E43icrEty_7QVjnqmI3_h",
+			"type": "image",
+			"x": 571.8066040280596,
+			"y": -162.3023657386001,
+			"width": 214.4975181962379,
+			"height": 23.50657733657402,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": "N1F18AsTZ3SPcxAVsiHbZ",
+			"roundness": null,
+			"seed": 1058139325,
+			"version": 138,
+			"versionNonce": 1478473373,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1703738926854,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "18356bc2935cf9ac4ce72669609830ba13a25609",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "leA_afYaiwk2BuCW3N6Ku",
+			"type": "image",
+			"x": 965.8482465813137,
+			"y": -74.21923282438735,
+			"width": 113.38763355134422,
+			"height": 45.206834291712404,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": "N1F18AsTZ3SPcxAVsiHbZ",
+			"roundness": null,
+			"seed": 1782849363,
+			"version": 99,
+			"versionNonce": 2021820275,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1703738942107,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "5933fd6cc29ae45611b9c0751dd9bc35a2472ff4",
 			"scale": [
 				1,
 				1
@@ -1506,6 +1574,65 @@ dbf891b84c1c597474c16c4672310beb2f127468: [[Pasted Image 20231228124722_231.png]
 			"containerId": null,
 			"originalText": "精度说明与有效位.",
 			"lineHeight": 1.2
+		},
+		{
+			"id": "OADvhRcx1682FrQDtsfPT",
+			"type": "arrow",
+			"x": 983.4678757376886,
+			"y": -67.40051385903632,
+			"width": 9.903108037080983,
+			"height": 15.069927017398243,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": "N1F18AsTZ3SPcxAVsiHbZ",
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1780511603,
+			"version": 118,
+			"versionNonce": 987523453,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1703738924953,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					3.875097810320881,
+					6.4585401503135245
+				],
+				[
+					9.903108037080983,
+					15.069927017398243
+				],
+				[
+					7.750261320309733,
+					6.0279445270921315
+				]
+			],
+			"lastCommittedPoint": [
+				7.750261320309733,
+				6.0279445270921315
+			],
+			"startBinding": {
+				"elementId": "Um1n0XXlLzMEzoMtu5PNw",
+				"focus": 0.013356587611496324,
+				"gap": 13.857356042146705
+			},
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		},
 		{
 			"id": "V3PhIsjA",
