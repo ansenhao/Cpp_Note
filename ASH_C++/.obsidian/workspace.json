@@ -97,7 +97,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-28 23.47.53.excalidraw.md"
+                "file": "Excalidraw/valarray.md"
               }
             }
           }
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-28 23.47.53.excalidraw.md",
+                "file": "索引/C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-28 23.47.53.excalidraw.md",
+                "file": "索引/C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-28 23.47.53.excalidraw.md"
+                "file": "索引/C++.md"
               }
             }
           }
@@ -250,11 +250,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "04747971fd3d0e17",
+  "active": "2501c3a268985801",
   "lastOpenFiles": [
-    "notion/传统数组-vector-array.md",
-    "Excalidraw/Drawing 2023-12-28 23.47.53.excalidraw.md",
+    "Excalidraw/valarray.md",
     "索引/C++.md",
+    "索引/C++.md.baiduyun.uploading.cfg",
+    "Excalidraw/valarray.md.baiduyun.uploading.cfg",
+    "notion/传统数组-vector-array.md",
     "notion/strcpy(),strcat()字符串的修改.md",
     "notion/strcpy(),strcat()字符串的修改.md.baiduyun.uploading.cfg",
     "static/Pasted Image 20231228234631_411.png.baiduyun.uploading.cfg",
@@ -262,7 +264,6 @@
     "static/Pasted Image 20231228234631_411.png",
     "static/Pasted Image 20231228234615_375.jpg",
     "Excalidraw/私有继承.md",
-    "索引/C++.md.baiduyun.uploading.cfg",
     "Excalidraw/私有继承.md.baiduyun.uploading.cfg",
     "notion/二叉树.md",
     "notion/二叉树.md.baiduyun.uploading.cfg",
@@ -271,7 +272,6 @@
     "static/Pasted Image 20231228172656_901.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231228172656_901.png",
     "static/Pasted Image 20231228172556_896.png.baiduyun.uploading.cfg",
-    "static/Pasted Image 20231228172554_619.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231228172556_896.png",
     "static/Pasted Image 20231228172554_619.png",
     "static/Pasted Image 20231228172540_888.png",
@@ -297,7 +297,6 @@
     "notion/虚函数.md",
     "notion/类中new，复制构造函数、重载  =.md",
     "notion/类的类型转换.md",
-    "notion/友元函数.md",
     "未命名.canvas",
     "画板案例.canvas",
     "索引/大纲导图.canvas",
