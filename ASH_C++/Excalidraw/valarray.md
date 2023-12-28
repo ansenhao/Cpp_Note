@@ -23,7 +23,7 @@ vector 和 array 类
 
 
 # Embedded files
-f92001bef69031dc1e6503df05e5f0388c03f582: [[Pasted Image 20231228235258_882.png]]
+89c095d05f5461760980aec6a0e04859dd4b8455: [[Pasted Image 20231228235602_961.png]]
 
 %%
 # Drawing
@@ -33,6 +33,39 @@ f92001bef69031dc1e6503df05e5f0388c03f582: [[Pasted Image 20231228235258_882.png]
 	"version": 2,
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.13",
 	"elements": [
+		{
+			"id": "oPVpENH67li0eZatmqQof",
+			"type": "image",
+			"x": -440.3425414364641,
+			"y": -16.421875,
+			"width": 842.8425414364642,
+			"height": 211.88125000000005,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1181471155,
+			"version": 231,
+			"versionNonce": 232631453,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1703778961969,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "89c095d05f5461760980aec6a0e04859dd4b8455",
+			"scale": [
+				1,
+				1
+			]
+		},
 		{
 			"id": "u4moJ9As",
 			"type": "text",
@@ -69,39 +102,6 @@ f92001bef69031dc1e6503df05e5f0388c03f582: [[Pasted Image 20231228235258_882.png]
 			"containerId": null,
 			"originalText": "vector 和 array 类\n它们提供的算术支持没有valarray多。",
 			"lineHeight": 1.2
-		},
-		{
-			"id": "PGFHkvwnFXGf6FLygwoGj",
-			"type": "image",
-			"x": -489,
-			"y": -19.421875,
-			"width": 927.9999999999999,
-			"height": 205,
-			"angle": 0,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 126331933,
-			"version": 50,
-			"versionNonce": 918904787,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1703778732627,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "f92001bef69031dc1e6503df05e5f0388c03f582",
-			"scale": [
-				1,
-				1
-			]
 		},
 		{
 			"id": "PmY00ytm",
@@ -287,6 +287,39 @@ f92001bef69031dc1e6503df05e5f0388c03f582: [[Pasted Image 20231228235258_882.png]
 			"containerId": null,
 			"originalText": "//将gpa前四个值填充到v4中",
 			"lineHeight": 1.2
+		},
+		{
+			"id": "PGFHkvwnFXGf6FLygwoGj",
+			"type": "image",
+			"x": -493.5,
+			"y": 256.078125,
+			"width": 927.9999999999999,
+			"height": 205,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 126331933,
+			"version": 85,
+			"versionNonce": 2137051091,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1703778952690,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "f92001bef69031dc1e6503df05e5f0388c03f582",
+			"scale": [
+				1,
+				1
+			]
 		}
 	],
 	"appState": {
@@ -304,8 +337,8 @@ f92001bef69031dc1e6503df05e5f0388c03f582: [[Pasted Image 20231228235258_882.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 759,
-		"scrollY": 480.578125,
+		"scrollX": 832.5,
+		"scrollY": 223.078125,
 		"zoom": {
 			"value": 1
 		},
