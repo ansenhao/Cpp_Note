@@ -64,7 +64,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "20f15777a855eb8c",
@@ -77,7 +78,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "notion/new-delete-动态数组-指针算数.md"
+                "file": "Excalidraw/二叉树.md"
               }
             }
           }
@@ -166,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notion/new-delete-动态数组-指针算数.md",
+                "file": "Excalidraw/二叉树.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notion/new-delete-动态数组-指针算数.md",
+                "file": "Excalidraw/二叉树.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notion/new-delete-动态数组-指针算数.md"
+                "file": "Excalidraw/二叉树.md"
               }
             }
           }
@@ -231,6 +232,9 @@
   },
   "active": "7fccf4ce62a3fb08",
   "lastOpenFiles": [
+    "static/Pasted Image 20231228091345_848.png",
+    "索引/数据结构与算法.md",
+    "notion/new-delete-动态数组-指针算数.md",
     "索引/C++.md",
     "notion/pointers-指针.md",
     "notion/默认参数.md",
@@ -264,7 +268,6 @@
     "static/Pasted Image 20231226222246_181.png",
     "notion/虚函数(1).md.baiduyun.downloading.cfg",
     "Excalidraw/二叉树_冲突文件_Admin_20231227091641.md",
-    "索引/数据结构与算法.md",
     "notion/递归.md",
     "notion/多继承，菱形继承，虚继承.md",
     "notion/访问修饰符public-protected-private.md",
@@ -275,8 +278,6 @@
     "Excalidraw/malloc、free.md",
     "notion/栈的应用.md",
     "conflict-files-obsidian-git.md",
-    "Excalidraw/双链表.md",
-    "notion/继承-父子类.md",
     "未命名.canvas",
     "画板案例.canvas",
     "索引/大纲导图.canvas",
