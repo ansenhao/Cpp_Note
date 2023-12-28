@@ -81,6 +81,16 @@
                 "file": "notion/printf--scanf.md"
               }
             }
+          },
+          {
+            "id": "6a47f97eee03034a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "static/Pasted Image 20231228125238_987.png"
+              }
+            }
           }
         ]
       }
@@ -232,9 +242,13 @@
   },
   "active": "7fccf4ce62a3fb08",
   "lastOpenFiles": [
+    "notion/printf--scanf.md.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231228125238_987.png.baiduyun.uploading.cfg",
+    "static/Pasted Image 20231228125238_987.png",
+    "static/Pasted Image 20231228125230_269.png.baiduyun.uploading.cfg",
+    "notion/printf--scanf.md",
     "static/Pasted Image 20231228125230_269.png",
     "static/Pasted Image 20231228125215_262.png.baiduyun.uploading.cfg",
-    "notion/printf--scanf.md.baiduyun.uploading.cfg",
     "static/Pasted Image 20231228125215_262.png",
     "static/Pasted Image 20231228124852_238.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231228124852_238.png",
@@ -250,9 +264,6 @@
     "static/Pasted Image 20231228124637_227.png",
     "static/Pasted Image 20231228124522_216.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231228124522_216.png",
-    "static/Pasted Image 20231228124415_191.png.baiduyun.uploading.cfg",
-    "static/Pasted Image 20231228124415_191.png",
-    "static/Pasted Image 20231228124400_190.png",
     "索引/C语言.md",
     "Excalidraw/二叉树.md",
     "conflict-files-obsidian-git.md",
@@ -275,7 +286,6 @@
     "notion/访问修饰符public-protected-private.md",
     "notion/队列与循环队列.md",
     "索引/python大纲.md",
-    "notion/printf--scanf.md",
     "Excalidraw/malloc、free.md",
     "notion/栈的应用.md",
     "未命名.canvas",
