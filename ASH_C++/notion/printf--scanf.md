@@ -50,6 +50,8 @@ getchar() ^4jKRshI4
 
 如果0标志和精度说明符同时出现，那么0标志就会被忽略。 ^OoynzIat
 
+小数点之后是有效显示位 ^famw54IN
+
 
 # Embedded files
 b4ee4f0e22701fa2e396f0b424f00756208155ce: [[Pasted Image 20231218092042_643.png]]
@@ -1091,6 +1093,43 @@ bf92f25510c85afca672de51ad0d161353b7765c: [[Pasted Image 20231228111149_084.png]
 			"lineHeight": 1.2
 		},
 		{
+			"id": "famw54IN",
+			"type": "text",
+			"x": 924.7891667295653,
+			"y": -24.866218429083062,
+			"width": 134.5116890569187,
+			"height": 14.674002442572949,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": "N1F18AsTZ3SPcxAVsiHbZ",
+			"roundness": null,
+			"seed": 323147261,
+			"version": 69,
+			"versionNonce": 286451635,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1703738497690,
+			"link": null,
+			"locked": false,
+			"text": "小数点之后是有效显示位",
+			"rawText": "小数点之后是有效显示位",
+			"fontSize": 12.228335368810791,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 11.999999999999998,
+			"containerId": null,
+			"originalText": "小数点之后是有效显示位",
+			"lineHeight": 1.2
+		},
+		{
 			"id": "N1F18AsTZ3SPcxAVsiHbZ",
 			"type": "frame",
 			"x": 675.3523243215285,
@@ -1298,7 +1337,7 @@ bf92f25510c85afca672de51ad0d161353b7765c: [[Pasted Image 20231228111149_084.png]
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1971c2",
+		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
@@ -1310,8 +1349,8 @@ bf92f25510c85afca672de51ad0d161353b7765c: [[Pasted Image 20231228111149_084.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -554.0847084527962,
-		"scrollY": 145.26684474559332,
+		"scrollX": -702.7841699316995,
+		"scrollY": 154.45614685724456,
 		"zoom": {
 			"value": 2.8729085292113403
 		},
