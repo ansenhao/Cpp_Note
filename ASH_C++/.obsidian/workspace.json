@@ -64,8 +64,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "1720b8f7fb779419",
@@ -167,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notion/二叉树.md",
+                "file": "索引/C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notion/二叉树.md",
+                "file": "索引/C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notion/二叉树.md"
+                "file": "索引/C++.md"
               }
             }
           }
@@ -230,17 +229,17 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "07dac15ae5088112",
+  "active": "2501c3a268985801",
   "lastOpenFiles": [
+    "notion/二叉树.md.baiduyun.uploading.cfg",
+    "notion/二叉树.md",
     "索引/数据结构与算法.md",
     "notion/类中new，复制构造函数、重载  =.md",
     "notion/类中new，复制构造函数、重载  =_冲突文件_Administrator_20231228234318.md",
     "notion/strcpy(),strcat()字符串的修改.md",
     "notion/operator-重载运算符.md",
-    "notion/二叉树.md.baiduyun.uploading.cfg",
     "notion/operator-重载运算符_冲突文件_Administrator_20231228234318_冲突文件_Admin_20231229091340.md",
     "notion/operator-重载运算符_冲突文件_Administrator_20231228234318.md",
-    "notion/二叉树.md",
     "notion/二叉树_冲突文件_Admin_20231229091340.md",
     "notion/单链表.md",
     "notion/函数的声明与定义.md",
@@ -277,7 +276,6 @@
     "索引/C++.md",
     "notion/栈的应用.md",
     "notion/switch.md",
-    "notion/时间与空间复杂度.md",
     "未命名.canvas",
     "画板案例.canvas",
     "索引/大纲导图.canvas",
