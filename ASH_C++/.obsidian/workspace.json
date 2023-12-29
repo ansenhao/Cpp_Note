@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "索引/C++.md",
+                "file": "notion/二叉树.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "索引/C++.md",
+                "file": "notion/二叉树.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "索引/C++.md"
+                "file": "notion/二叉树.md"
               }
             }
           }
@@ -229,9 +229,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2501c3a268985801",
+  "active": "07dac15ae5088112",
   "lastOpenFiles": [
     "notion/二叉树.md.baiduyun.uploading.cfg",
+    "索引/C++.md",
     "notion/二叉树.md",
     "索引/数据结构与算法.md",
     "notion/类中new，复制构造函数、重载  =.md",
@@ -273,7 +274,6 @@
     "static/Pasted Image 20231229002604_957.png",
     "static/Pasted Image 20231229002601_279.png",
     "static/Pasted Image 20231229002501_264.png",
-    "索引/C++.md",
     "notion/栈的应用.md",
     "notion/switch.md",
     "未命名.canvas",
