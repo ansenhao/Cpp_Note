@@ -80,7 +80,7 @@ dd761927a706f6bbe80ff49262a4839b012e0504: [[Pasted Image 20231123111206_325.png]
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.3",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.13",
 	"elements": [
 		{
 			"type": "image",
@@ -282,7 +282,7 @@ dd761927a706f6bbe80ff49262a4839b012e0504: [[Pasted Image 20231123111206_325.png]
 			"containerId": null,
 			"originalText": "定义与索引",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "image",
@@ -1051,7 +1051,7 @@ dd761927a706f6bbe80ff49262a4839b012e0504: [[Pasted Image 20231123111206_325.png]
 			"containerId": null,
 			"originalText": "例：",
 			"lineHeight": 1.25,
-			"baseline": 13
+			"baseline": 12
 		},
 		{
 			"type": "image",
@@ -1253,7 +1253,7 @@ dd761927a706f6bbe80ff49262a4839b012e0504: [[Pasted Image 20231123111206_325.png]
 			"containerId": null,
 			"originalText": "例：",
 			"lineHeight": 1.25,
-			"baseline": 13
+			"baseline": 12
 		},
 		{
 			"type": "image",
@@ -1360,7 +1360,7 @@ dd761927a706f6bbe80ff49262a4839b012e0504: [[Pasted Image 20231123111206_325.png]
 			"containerId": null,
 			"originalText": "动态",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "frame",
@@ -1469,7 +1469,7 @@ dd761927a706f6bbe80ff49262a4839b012e0504: [[Pasted Image 20231123111206_325.png]
 			"containerId": null,
 			"originalText": "静态",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "text",
@@ -1487,7 +1487,7 @@ dd761927a706f6bbe80ff49262a4839b012e0504: [[Pasted Image 20231123111206_325.png]
 			"y": 440.74139539710256,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 42.03999328613281,
+			"width": 42.03796201669075,
 			"height": 52.55554199218743,
 			"seed": 936490033,
 			"groupIds": [],
@@ -1609,7 +1609,7 @@ dd761927a706f6bbe80ff49262a4839b012e0504: [[Pasted Image 20231123111206_325.png]
 			"containerId": null,
 			"originalText": "传统",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "text",
@@ -1646,7 +1646,7 @@ dd761927a706f6bbe80ff49262a4839b012e0504: [[Pasted Image 20231123111206_325.png]
 			"containerId": null,
 			"originalText": "vector",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "text",
@@ -1683,7 +1683,7 @@ dd761927a706f6bbe80ff49262a4839b012e0504: [[Pasted Image 20231123111206_325.png]
 			"containerId": null,
 			"originalText": "array",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "image",
@@ -1782,7 +1782,7 @@ dd761927a706f6bbe80ff49262a4839b012e0504: [[Pasted Image 20231123111206_325.png]
 			"containerId": null,
 			"originalText": "错误：",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "text",
@@ -1856,7 +1856,7 @@ dd761927a706f6bbe80ff49262a4839b012e0504: [[Pasted Image 20231123111206_325.png]
 			"containerId": null,
 			"originalText": "可以使用at()函数捕获非法索引，代价是运行时间更长",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "image",
@@ -1893,8 +1893,8 @@ dd761927a706f6bbe80ff49262a4839b012e0504: [[Pasted Image 20231123111206_325.png]
 		},
 		{
 			"type": "text",
-			"version": 38,
-			"versionNonce": 531460817,
+			"version": 39,
+			"versionNonce": 373963400,
 			"isDeleted": false,
 			"id": "TFeKi3vk",
 			"fillStyle": "solid",
@@ -1907,14 +1907,14 @@ dd761927a706f6bbe80ff49262a4839b012e0504: [[Pasted Image 20231123111206_325.png]
 			"y": 728.9234577195461,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 56,
+			"width": 55.976421513065794,
 			"height": 35,
 			"seed": 729729553,
 			"groupIds": [],
 			"frameId": "DhEcAVHogCdXsOTXE-cHq",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1700711324444,
+			"updated": 1703812616749,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1926,7 +1926,7 @@ dd761927a706f6bbe80ff49262a4839b012e0504: [[Pasted Image 20231123111206_325.png]
 			"containerId": null,
 			"originalText": "例：",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 23
 		},
 		{
 			"type": "line",
@@ -2056,10 +2056,10 @@ dd761927a706f6bbe80ff49262a4839b012e0504: [[Pasted Image 20231123111206_325.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1654.8378659268947,
-		"scrollY": 1118.0000719380348,
+		"scrollX": 1685.9663381491168,
+		"scrollY": 1093.798683049146,
 		"zoom": {
-			"value": 0.45
+			"value": 0.4
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

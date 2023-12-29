@@ -64,7 +64,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "1720b8f7fb779419",
@@ -77,32 +78,11 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "notion/二叉树.md"
-              }
-            }
-          },
-          {
-            "id": "01362dfd8d269106",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "notion/传统数组-vector-array.md"
-              }
-            }
-          },
-          {
-            "id": "04747971fd3d0e17",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/私有继承.md"
+                "file": "Excalidraw/valarray.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5,
-    "collapsed": true
+    "width": 322.5
   },
   "right": {
     "id": "1e2f083c69547fa6",
@@ -187,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/私有继承.md",
+                "file": "Excalidraw/valarray.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/私有继承.md",
+                "file": "Excalidraw/valarray.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/私有继承.md"
+                "file": "Excalidraw/valarray.md"
               }
             }
           }
@@ -250,8 +229,20 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "04747971fd3d0e17",
+  "active": "c401be002ff184cc",
   "lastOpenFiles": [
+    "notion/二叉树.md",
+    "notion/二叉树.md.baiduyun.uploading.cfg",
+    "Excalidraw/二叉树_冲突文件_Admin_20231227091641.md",
+    "Excalidraw/基类与派生类.md",
+    "Excalidraw/基类与派生类_冲突文件_Admin_20231229091340.md",
+    "Excalidraw/valarray.md",
+    "Excalidraw/私有继承_冲突文件_Admin_20231229091340.md",
+    "notion/传统数组-vector-array.md.baiduyun.uploading.cfg",
+    "Excalidraw/valarray_冲突文件_Admin_20231229091340.md",
+    "索引/数据结构与算法.md",
+    "notion/传统数组-vector-array.md",
+    "Excalidraw/私有继承.md",
     "static/Pasted Image 20231229003649_376.png.baiduyun.uploading.cfg",
     "Excalidraw/私有继承.md.baiduyun.uploading.cfg",
     "static/Pasted Image 20231229003649_376.png",
@@ -267,26 +258,17 @@
     "static/Pasted Image 20231229002746_287.png",
     "static/Pasted Image 20231229002701_284.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231229002701_284.png",
-    "static/Pasted Image 20231229002604_957.png.baiduyun.uploading.cfg",
-    "static/Pasted Image 20231229002601_279.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231229002604_957.png",
     "static/Pasted Image 20231229002601_279.png",
-    "static/Pasted Image 20231229002501_264.png.baiduyun.uploading.cfg",
     "static/Pasted Image 20231229002501_264.png",
     "索引/C++.md",
-    "Excalidraw/valarray.md",
-    "notion/传统数组-vector-array.md",
     "notion/strcpy(),strcat()字符串的修改.md",
-    "Excalidraw/私有继承.md",
-    "notion/二叉树.md",
-    "索引/数据结构与算法.md",
     "notion/栈的应用.md",
     "notion/switch.md",
     "notion/时间与空间复杂度.md",
     "notion/递归.md",
     "notion/switch_冲突文件_Admin_20231202085212.md",
     "notion/malloc、free.md",
-    "Excalidraw/二叉树_冲突文件_Admin_20231227091641.md",
     "notion/基类与派生类.md",
     "Excalidraw/基类与派生类_冲突文件_Administrator_20231225193646.md",
     "notion/printf--scanf.md",
@@ -294,10 +276,6 @@
     "conflict-files-obsidian-git.md",
     "notion/new-delete-动态数组-指针算数.md",
     "notion/pointers-指针.md",
-    "notion/默认参数.md",
-    "notion/虚函数.md",
-    "notion/类中new，复制构造函数、重载  =.md",
-    "notion/类的类型转换.md",
     "未命名.canvas",
     "画板案例.canvas",
     "索引/大纲导图.canvas",
